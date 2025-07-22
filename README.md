@@ -301,18 +301,18 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Networking
 
-- [Warp](https://github.com/evolutionleo/Warp) - A feature-rich framework for multiplayer games, written in GameMaker and Node.js.
-- [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) - Host/client implementation with a chat feature.
-- [Patchwire-GM](https://github.com/gm-core/patchwire-gm) - The network library from gm-core if you want to use this implementation without the entire gm-core suite.
-- [GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8) - A Gist demonstrating a network handshake.
-- [HTTP GML](https://github.com/Sidorakh/http.gml) - Recieve GET requests and upload files in GML.
-- [GMNest](https://github.com/TimVN/GMNest) - Socket.IO extension for HTML5 games.
-- [MultiClient](https://github.com/tabularelf/MultiClient) - Non-dll, multiple client launcher for network development.
-- [Multiplayer Networking Tutorial](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [Good GameMaker Rollback](https://springrollgames.itch.io/ggmr) - Rollback netcode library.
-- [GM Networking](https://github.com/gmclan-org/gm_networking) - Very simple network code demonstration.
-- [Boomers Networking](https://github.com/gmclan-org/gm_boomers_networking) - Network library which mimics pre-GM:Studio favorite networking extension 39dll using GM native functions.
-- [Rocket Networking Engine](https://marketplace.gamemaker.io/assets/11424/rocket-networking-engine) - Easy low-code multiplayer engine.
+- ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[Multiplayer Networking Tutorial](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi.
+- 🟢[MultiClient](https://github.com/tabularelf/MultiClient) - Non-dll, multiple client launcher for network development.
+- 🟡[Warp](https://github.com/evolutionleo/Warp) - A feature-rich framework for multiplayer games, written in GameMaker and Node.js.
+- 🔴[EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) - Host/client implementation with a chat feature.
+- 🔴[Patchwire-GM](https://github.com/gm-core/patchwire-gm) - The network library from gm-core if you want to use this implementation without the entire gm-core suite.
+- 🔴[GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8) - A Gist demonstrating a network handshake.
+- 🔴[HTTP GML](https://github.com/Sidorakh/http.gml) - Recieve GET requests and upload files in GML.
+- 🔴[GMNest](https://github.com/TimVN/GMNest) - Socket.IO extension for HTML5 games.
+- 🔴[Good GameMaker Rollback](https://springrollgames.itch.io/ggmr) - Rollback netcode library.
+- 🔴[GM Networking](https://github.com/gmclan-org/gm_networking) - Very simple network code demonstration.
+- 🔴[Boomers Networking](https://github.com/gmclan-org/gm_boomers_networking) - Network library which mimics pre-GM:Studio favorite networking extension 39dll using GM native functions.
+- 🔴[Rocket Networking Engine](https://marketplace.gamemaker.io/assets/11424/rocket-networking-engine) - Easy low-code multiplayer engine.
 
 ## Integrations
 
