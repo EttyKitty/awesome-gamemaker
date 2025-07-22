@@ -155,6 +155,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## User Interface
 
+- [Menu Tutorial](https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1) - FriendlyCosmonaut. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+- [Smart Clickable GUI](https://www.youtube.com/watch?v=RbBgE3cUShc) - Pixelated Pope. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - 🟢[Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer.
 - 🟢[YUI](https://github.com/shdwcat/YUI) - A UI system with live reloading, template system, data binding, and a drag and drop feature.
 - 🟢[Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
@@ -172,8 +174,6 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - 🔴[Magpie](https://dragonite.itch.io/magpie) - Generic Inventory System.
 - 🔴[ImGuiGML](https://rousr.itch.io/imguigml) - DLL/GML wrapper of Dear ImGui.
 - 🔴[GUI Framework](https://niris.itch.io/gui-framework) - GUI implementation from Niris Games.
-- [Menu Tutorial](https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1) - FriendlyCosmonaut. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [Smart Clickable GUI](https://www.youtube.com/watch?v=RbBgE3cUShc) - Pixelated Pope. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - 🔴[zitk](https://github.com/TandyRum1024/zitk) - Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.
 - 🔴[SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
 
@@ -242,20 +242,20 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Lighting
 
-- [Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows.
-- [Lighting System 2D](https://github.com/borup3/Lighting-System-2D) - Requires GameMaker 2.2+ according to the repo.
-- [GameMaker Lighting Engine](https://github.com/bilouw/Gamemaker-Lighting-Engine) - Tile-based Lighting Engine that projects shadows.
 - [Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [Crystal](https://foxyofjungle.itch.io/crystal-2d-lighting-engine) - Complete and efficient 2D lighting solution. 💸
+- 🟢💸[Crystal](https://foxyofjungle.itch.io/crystal-2d-lighting-engine) - Complete and efficient 2D lighting solution.
+- 🔴[Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows.
+- 🔴[Lighting System 2D](https://github.com/borup3/Lighting-System-2D) - Requires GameMaker 2.2+ according to the repo.
+- 🔴[GameMaker Lighting Engine](https://github.com/bilouw/Gamemaker-Lighting-Engine) - Tile-based Lighting Engine that projects shadows.
 
 ## Shaders
 
-- [TransFX](https://short-bread.itch.io/transfx) - Transition Library.
-- [Post-Processing FX](https://foxyofjungle.itch.io/post-processing-fx) - 50+ high-quality, customizable effects. 💸
-- [BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader.
-- [bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader.
-- [H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
-- [Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) - Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android.
+- 🔴[TransFX](https://short-bread.itch.io/transfx) - Transition Library.
+- 🟢💸[Post-Processing FX](https://foxyofjungle.itch.io/post-processing-fx) - 50+ high-quality, customizable effects.
+- 🔴[BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader.
+- 🔴[bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader.
+- 🔴[H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
+- 🔴[Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) - Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android.
 - [GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com".
 - [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) - Blur Shader with adjustable radius.
 - [Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) - Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase.
