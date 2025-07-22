@@ -209,16 +209,16 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Audio
 
-- [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) - Official support for FMOD in GameMaker.
-- [FML](https://github.com/Nikkilae/fml) - GameMaker bindings for the FMOD Studio API.
-- [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) - Optimized delay effect. 💸
-- [wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
-- [audioExt](https://github.com/tabularelf/audioExt) - Sound External Loader/Unloader Manager.
-- [ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) - Load external .wav files at runtime.
-- [Phonix](https://github.com/Andre-404/Phonix/) - Compact audio system. Great for dynamic music!
-- [Vinyl](https://github.com/JujuAdams/Vinyl) - Live updating audio system.
-- [LineAudio](https://github.com/WangleLine/LineAudio) - Audio helper functions.
-- [Bard](https://github.com/gl326/bard-audio) - An engine for desiging and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
+- 🟢[GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) - Official support for FMOD in GameMaker.
+- 🟢[Vinyl](https://github.com/JujuAdams/Vinyl) - Live updating audio system.
+- 🟡[FML](https://github.com/Nikkilae/fml) - GameMaker bindings for the FMOD Studio API.
+- 🔴[Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) - Optimized delay effect. 💸
+- 🔴[wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
+- 🔴[audioExt](https://github.com/tabularelf/audioExt) - Sound External Loader/Unloader Manager.
+- 🔴[ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) - Load external .wav files at runtime.
+- 🔴[Phonix](https://github.com/Andre-404/Phonix/) - Compact audio system. Great for dynamic music!
+- 🔴[LineAudio](https://github.com/WangleLine/LineAudio) - Audio helper functions.
+- 🔴[Bard](https://github.com/gl326/bard-audio) - An engine for desiging and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
 
 ## Levels
 
