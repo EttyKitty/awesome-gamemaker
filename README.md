@@ -57,6 +57,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - Schedule routine backups for projects. If you are dealing with larger media files in your repo, try [Git LFS](https://git-lfs.github.com/).
 
 ## Icons
+- 💸 - a paid resource.
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - a YouTube video.
 - 🧰 - an online tool to do something.
 - 🗒️ - a written guide.
