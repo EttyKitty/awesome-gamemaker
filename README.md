@@ -234,11 +234,11 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Particles
 
-- [Particle Editor](https://gamemakercasts.itch.io/particle-editor) - Create particles with an easy UI and export into GML code.
-- [Particles Wrapper](https://github.com/GamemakerCasts/particles) - A simplistic particle system wrapper that is designed to make creating particles fun and easy.
-- [Advanced Particles](https://limekys.itch.io/advanced-particle-system) - A particle implementation that comes with it's own delta timing methods.
-- [Pulse](https://github.com/Delfos1/Pulse) - A library to create more complex particle emitters, systems and particles.
-- [Burrn](https://github.com/FoxyOfJungle/Burrn) - Built-in particle system that uses the particle asset built into the IDE.
+- 🟢[Particle Editor](https://gamemakercasts.itch.io/particle-editor) - Create particles with an easy UI and export into GML code.
+- 🔴[Particles Wrapper](https://github.com/GamemakerCasts/particles) - A simplistic particle system wrapper that is designed to make creating particles fun and easy.
+- 🔴[Advanced Particles](https://limekys.itch.io/advanced-particle-system) - A particle implementation that comes with it's own delta timing methods.
+- 🔴[Pulse](https://github.com/Delfos1/Pulse) - A library to create more complex particle emitters, systems and particles.
+- 🔴[Burrn](https://github.com/FoxyOfJungle/Burrn) - Built-in particle system that uses the particle asset built into the IDE.
 
 ## Lighting
 
