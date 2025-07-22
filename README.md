@@ -155,27 +155,27 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## User Interface
 
-- [Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer.
-- [Scripture](https://pixelatedpope.itch.io/scripture) - Another easy to use, highly compatible text renderer.
-- [Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool.
-- [Textboxy](https://github.com/glitchroy/textboxy) - Simple textboxes.
-- [Crochet](https://github.com/FaultyFunctions/Crochet) - An interactive dialogue editor for writers and programmers.
-- [NotificationSystem](https://github.com/babaganosch/NotificationSystem) - Notifications in GameMaker.
-- [YUI](https://github.com/shdwcat/YUI) - A UI system with live reloading, template system, data binding, and a drag and drop feature.
-- [Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework.
-- [GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
-- [GMS2-UI-Library](https://github.com/nabilatsoulcade/GMS2-UI-Library) - A Library Full of useful scripts for implementing your UI designs in GameMaker.
-- [Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
-- [Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23) - Simple implementation to have a menu up and running in seconds. Seems like a great fit if you're not looking for a bigger solution like GMUI.
-- [Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2) - Another smaller implementation but has a cool animation between menu options.
-- [Magpie](https://dragonite.itch.io/magpie) - Generic Inventory System.
-- [ImGuiGML](https://rousr.itch.io/imguigml) - DLL/GML wrapper of Dear ImGui.
-- [GUI Framework](https://niris.itch.io/gui-framework) - GUI implementation from Niris Games.
+- 🟢[Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer.
+- 🟢[YUI](https://github.com/shdwcat/YUI) - A UI system with live reloading, template system, data binding, and a drag and drop feature.
+- 🟢[Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
+- 🟢[gooey](https://manta-ray.itch.io/gooey) - Sprite-based UI Library for GameMaker LTS.
+- 🟡[Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool.
+- 🔴[Scripture](https://pixelatedpope.itch.io/scripture) - Another easy to use, highly compatible text renderer.
+- 🔴[Textboxy](https://github.com/glitchroy/textboxy) - Simple textboxes.
+- 🔴[Crochet](https://github.com/FaultyFunctions/Crochet) - An interactive dialogue editor for writers and programmers.
+- 🔴[NotificationSystem](https://github.com/babaganosch/NotificationSystem) - Notifications in GameMaker.
+- 🔴[Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework.
+- 🔴[GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
+- 🔴[GMS2-UI-Library](https://github.com/nabilatsoulcade/GMS2-UI-Library) - A Library Full of useful scripts for implementing your UI designs in GameMaker.
+- 🔴[Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23) - Simple implementation to have a menu up and running in seconds. Seems like a great fit if you're not looking for a bigger solution like GMUI.
+- 🔴[Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2) - Another smaller implementation but has a cool animation between menu options.
+- 🔴[Magpie](https://dragonite.itch.io/magpie) - Generic Inventory System.
+- 🔴[ImGuiGML](https://rousr.itch.io/imguigml) - DLL/GML wrapper of Dear ImGui.
+- 🔴[GUI Framework](https://niris.itch.io/gui-framework) - GUI implementation from Niris Games.
 - [Menu Tutorial](https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1) - FriendlyCosmonaut. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Smart Clickable GUI](https://www.youtube.com/watch?v=RbBgE3cUShc) - Pixelated Pope. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [zitk](https://github.com/TandyRum1024/zitk) - Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.
-- [gooey](https://manta-ray.itch.io/gooey) - Sprite-based UI Library for GameMaker LTS.
-- [SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
+- 🔴[zitk](https://github.com/TandyRum1024/zitk) - Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.
+- 🔴[SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
 
 ## Localization
 
