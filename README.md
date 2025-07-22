@@ -168,96 +168,114 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[Menu Tutorial](https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1) - FriendlyCosmonaut.
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[Smart Clickable GUI](https://www.youtube.com/watch?v=RbBgE3cUShc) - Pixelated Pope.
-- 🟢[Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer.
-- 🟢[YUI](https://github.com/shdwcat/YUI) - A UI system with live reloading, template system, data binding, and a drag and drop feature.
-- 🟢[Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
-- 🟢[gooey](https://manta-ray.itch.io/gooey) - Sprite-based UI Library for GameMaker LTS.
-- 🟡[Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool.
-- 🔴[Scripture](https://pixelatedpope.itch.io/scripture) - Another easy to use, highly compatible text renderer.
-- 🔴[Textboxy](https://github.com/glitchroy/textboxy) - Simple textboxes.
-- 🔴[Crochet](https://github.com/FaultyFunctions/Crochet) - An interactive dialogue editor for writers and programmers.
-- 🔴[NotificationSystem](https://github.com/babaganosch/NotificationSystem) - Notifications in GameMaker.
-- 🔴[Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework.
-- 🔴[GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
-- 🔴[GMS2-UI-Library](https://github.com/nabilatsoulcade/GMS2-UI-Library) - A Library Full of useful scripts for implementing your UI designs in GameMaker.
-- 🔴[Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23) - Simple implementation to have a menu up and running in seconds. Seems like a great fit if you're not looking for a bigger solution like GMUI.
-- 🔴[Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2) - Another smaller implementation but has a cool animation between menu options.
-- 🔴[Magpie](https://dragonite.itch.io/magpie) - Generic Inventory System.
-- 🔴[ImGuiGML](https://rousr.itch.io/imguigml) - DLL/GML wrapper of Dear ImGui.
-- 🔴[GUI Framework](https://niris.itch.io/gui-framework) - GUI implementation from Niris Games.
-- 🔴[zitk](https://github.com/TandyRum1024/zitk) - Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.
-- 🔴[SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
+
+| Name | Description | Status |
+|---|---|---|
+| [Scribble](https://github.com/JujuAdams/scribble) | Efficient multi-effects text renderer. | 🟢 Active |
+| [YUI](https://github.com/shdwcat/YUI) | A UI system with live reloading, template system, data binding, and a drag and drop feature. | 🟢 Active |
+| [Emu UI](https://github.com/DragoniteSpam/Emu) | Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc). | 🟢 Active |
+| [gooey](https://manta-ray.itch.io/gooey) | Sprite-based UI Library for GameMaker LTS. | 🟢 Active |
+| [Chatterbox](https://github.com/JujuAdams/chatterbox) | Narrative scripting tool. | 🟡 Semi-Active |
+| [Scripture](https://pixelatedpope.itch.io/scripture) | Another easy to use, highly compatible text renderer. | 🔴 Inactive |
+| [Textboxy](https://github.com/glitchroy/textboxy) | Simple textboxes. | 🔴 Inactive |
+| [Crochet](https://github.com/FaultyFunctions/Crochet) | An interactive dialogue editor for writers and programmers. | 🔴 Inactive |
+| [NotificationSystem](https://github.com/babaganosch/NotificationSystem) | Notifications in GameMaker. | 🔴 Inactive |
+| [Guido](https://github.com/JujuAdams/Guido) | Simple immediate mode GUI framework. | 🔴 Inactive |
+| [GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) | A pure GML solution to structure and control your menus, drawing parallels to .NET UI. | 🔴 Inactive |
+| [GMS2-UI-Library](https://github.com/nabilatsoulcade/GMS2-UI-Library) | A Library Full of useful scripts for implementing your UI designs in GameMaker. | 🔴 Inactive |
+| [Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23) | Simple implementation to have a menu up and running in seconds. Seems like a great fit if you're not looking for a bigger solution like GMUI. | 🔴 Inactive |
+| [Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2) | Another smaller implementation but has a cool animation between menu options. | 🔴 Inactive |
+| [Magpie](https://dragonite.itch.io/magpie) | Generic Inventory System. | 🔴 Inactive |
+| [ImGuiGML](https://rousr.itch.io/imguigml) | DLL/GML wrapper of Dear ImGui. | 🔴 Inactive |
+| [GUI Framework](https://niris.itch.io/gui-framework) | GUI implementation from Niris Games. | 🔴 Inactive |
+| [zitk](https://github.com/TandyRum1024/zitk) | Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on. | 🔴 Inactive |
+| [SimpleUI](https://github.com/evolutionleo/SimpleUI) | Minimalistic UI framework. | 🔴 Inactive |
 
 ## Localization
 
-- 🟢[lexicon](https://github.com/tabularelf/lexicon) - Another localization solution focused on simplifying implementation.
-- 🔴[polyglot](https://github.com/daikon-games/polyglot) - Localization library.
-- 🔴[gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) - Internationalization of texts simply and quickly, using JSON files.
-- 🔴[GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
-- 🔴[Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
-- 🔴[gms2-mofile](https://github.com/pmarincak/gms2-mofile) - Mofile reader used for localization.
+| Name | Description | Status |
+|---|---|---|
+| [lexicon](https://github.com/tabularelf/lexicon) | Another localization solution focused on simplifying implementation. | 🟢 Active |
+| [polyglot](https://github.com/daikon-games/polyglot) | Localization library. | 🔴 Inactive |
+| [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) | Internationalization of texts simply and quickly, using JSON files. | 🔴 Inactive |
+| [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) | Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file. | 🔴 Inactive |
+| [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) | Similar export tool to GMLocalize but exports to a csv. | 🔴 Inactive |
+| [gms2-mofile](https://github.com/pmarincak/gms2-mofile) | Mofile reader used for localization. | 🔴 Inactive |
 
 ## Physics
 
-- 🟡[Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) - Verlet integration by Sarek Lambert.
-- 🔴[Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine.
-- 🔴[On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
-- 🔴[GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - GameMaker implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
-- 🔴[Inverse Kinematics Extension](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) - A library for working with inverse kinematics.
-- 🔴[GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
-- 🔴[Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) - Robust object-based collision system from Pixelated Pope.
+| Name | Description | Status |
+|---|---|---|
+| [Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) | Verlet integration by Sarek Lambert. | 🟡 Semi-Active |
+| [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) | A robust, pixel-perfect collision engine. | 🔴 Inactive |
+| [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) | A tutorial to implement 45° slopes. | 🔴 Inactive |
+| [GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) | GameMaker implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial. | 🔴 Inactive |
+| [Inverse Kinematics Extension](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) | A library for working with inverse kinematics. | 🔴 Inactive |
+| [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) | Verlet integration example used for visuals. | 🔴 Inactive |
+| [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) | Robust object-based collision system from Pixelated Pope. | 🔴 Inactive |
 
 ## Sprites
 
-- 🟢[Collage](https://github.com/tabularelf/Collage) - Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.
-- 🔴[AESnips](https://github.com/angelwire/AESnips) - A sprite playback system.
-- 🔴[phgen](https://github.com/squircledev/phgen) - Placeholder asset generation.
-- 🔴[Disarm](https://github.com/NuxiiGit/disarm) - A spriter skeletal animation at runtime.
-- 🔴[Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) - Image correction and cleanup for 2D video game sprites.
-- 🔴[PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) - Pixel art upscaling shader for awkward resolutions for GameMaker.
-- 🔴[ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
-- 🔴[conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) - Similar to ASESync. Export Aesprite files to GameMaker sprites.
+| Name | Description | Status |
+|---|---|---|
+| [Collage](https://github.com/tabularelf/Collage) | Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility. | 🟢 Active |
+| [AESnips](https://github.com/angelwire/AESnips) | A sprite playback system. | 🔴 Inactive |
+| [phgen](https://github.com/squircledev/phgen) | Placeholder asset generation. | 🔴 Inactive |
+| [Disarm](https://github.com/NuxiiGit/disarm) | A spriter skeletal animation at runtime. | 🔴 Inactive |
+| [Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) | Image correction and cleanup for 2D video game sprites. | 🔴 Inactive |
+| [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) | Pixel art upscaling shader for awkward resolutions for GameMaker. | 🔴 Inactive |
+| [ASESync](https://sahaun.itch.io/asesync) | Automatically syncs aesprite files in GameMaker. | 🔴 Inactive |
+| [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) | Similar to ASESync. Export Aesprite files to GameMaker sprites. | 🔴 Inactive |
 
 ## Audio
 
-- 🟢[GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) - Official support for FMOD in GameMaker.
-- 🟢[Vinyl](https://github.com/JujuAdams/Vinyl) - Live updating audio system.
-- 🟡[FML](https://github.com/Nikkilae/fml) - GameMaker bindings for the FMOD Studio API.
-- 🔴[Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) - Optimized delay effect. 💸
-- 🔴[wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
-- 🔴[audioExt](https://github.com/tabularelf/audioExt) - Sound External Loader/Unloader Manager.
-- 🔴[ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) - Load external .wav files at runtime.
-- 🔴[Phonix](https://github.com/Andre-404/Phonix/) - Compact audio system. Great for dynamic music!
-- 🔴[LineAudio](https://github.com/WangleLine/LineAudio) - Audio helper functions.
-- 🔴[Bard](https://github.com/gl326/bard-audio) - An engine for desiging and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
+| Name | Description | Status |
+|---|---|---|
+| [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) | Official support for FMOD in GameMaker. | 🟢 Active |
+| [Vinyl](https://github.com/JujuAdams/Vinyl) | Live updating audio system. | 🟢 Active |
+| [FML](https://github.com/Nikkilae/fml) | GameMaker bindings for the FMOD Studio API. | 🟡 Semi-Active |
+| [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) 💸 | Optimized delay effect. | 🔴 Inactive |
+| [wavload](https://github.com/nkrapivin/wavload) | Demonstrates how to externally load .wav files. | 🔴 Inactive |
+| [audioExt](https://github.com/tabularelf/audioExt) | Sound External Loader/Unloader Manager. | 🔴 Inactive |
+| [ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) | Load external .wav files at runtime. | 🔴 Inactive |
+| [Phonix](https://github.com/Andre-404/Phonix/) | Compact audio system. Great for dynamic music! | 🔴 Inactive |
+| [LineAudio](https://github.com/WangleLine/LineAudio) | Audio helper functions. | 🔴 Inactive |
+| [Bard](https://github.com/gl326/bard-audio) | An engine for desiging and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects. | 🔴 Inactive |
 
 ## Levels
 
-- 🟢[LDtkParser](https://github.com/evolutionleo/LDtkParser) - Advanced LDtk Importer.
-- 🟢[GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
-- 🔴[LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer.
-- 🔴[Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Collects room data and stores it into a JSON for later use.
-- 🔴[Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
-- 🔴[Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) - A random level generation example (similar to Nuclear Throne) using GameMaker.
-- 🔴[Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map but not production ready in its current state.
-- 🔴[Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) - An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.
-- 🔴[Cellular Automata Caves](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
+| Name | Description | Status |
+|---|---|---|
+| [LDtkParser](https://github.com/evolutionleo/LDtkParser) | Advanced LDtk Importer. | 🟢 Active |
+| [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) | Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation. | 🟢 Active |
+| [LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) | LDtk Importer. | 🔴 Inactive |
+| [Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) | Collects room data and stores it into a JSON for later use. | 🔴 Inactive |
+| [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) | Combines user-defined chambers to create a dungeon. | 🔴 Inactive |
+| [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) | A random level generation example (similar to Nuclear Throne) using GameMaker. | 🔴 Inactive |
+| [Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) | Generates a random tile map but not production ready in its current state. | 🔴 Inactive |
+| [Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) | An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids. | 🔴 Inactive |
+| [Cellular Automata Caves](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) | Generates huge caves in a few hundred milliseconds. | 🔴 Inactive |
 
 ## Particles
 
-- 🟢[Particle Editor](https://gamemakercasts.itch.io/particle-editor) - Create particles with an easy UI and export into GML code.
-- 🔴[Particles Wrapper](https://github.com/GamemakerCasts/particles) - A simplistic particle system wrapper that is designed to make creating particles fun and easy.
-- 🔴[Advanced Particles](https://limekys.itch.io/advanced-particle-system) - A particle implementation that comes with it's own delta timing methods.
-- 🔴[Pulse](https://github.com/Delfos1/Pulse) - A library to create more complex particle emitters, systems and particles.
-- 🔴[Burrn](https://github.com/FoxyOfJungle/Burrn) - Built-in particle system that uses the particle asset built into the IDE.
+| Name | Description | Status |
+|---|---|---|
+| [Particle Editor](https://gamemakercasts.itch.io/particle-editor) | Create particles with an easy UI and export into GML code. | 🟢 Active |
+| [Particles Wrapper](https://github.com/GamemakerCasts/particles) | A simplistic particle system wrapper that is designed to make creating particles fun and easy. | 🔴 Inactive |
+| [Advanced Particles](https://limekys.itch.io/advanced-particle-system) | A particle implementation that comes with it's own delta timing methods. | 🔴 Inactive |
+| [Pulse](https://github.com/Delfos1/Pulse) | A library to create more complex particle emitters, systems and particles. | 🔴 Inactive |
+| [Burrn](https://github.com/FoxyOfJungle/Burrn) | Built-in particle system that uses the particle asset built into the IDE. | 🔴 Inactive |
 
 ## Lighting
 
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting.
-- 🟢💸[Crystal](https://foxyofjungle.itch.io/crystal-2d-lighting-engine) - Complete and efficient 2D lighting solution.
-- 🔴[Bulb](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows.
-- 🔴[Lighting System 2D](https://github.com/borup3/Lighting-System-2D) - Requires GameMaker 2.2+ according to the repo.
-- 🔴[GameMaker Lighting Engine](https://github.com/bilouw/Gamemaker-Lighting-Engine) - Tile-based Lighting Engine that projects shadows.
+
+| Name | Description | Status |
+|---|---|---|
+| [Crystal](https://foxyofjungle.itch.io/crystal-2d-lighting-engine) 💸 | Complete and efficient 2D lighting solution. | 🟢 Active |
+| [Bulb](https://github.com/JujuAdams/Bulb) | 2D lighting and shadows. | 🔴 Inactive |
+| [Lighting System 2D](https://github.com/borup3/Lighting-System-2D) | Requires GameMaker 2.2+ according to the repo. | 🔴 Inactive |
+| [GameMaker Lighting Engine](https://github.com/bilouw/Gamemaker-Lighting-Engine) | Tile-based Lighting Engine that projects shadows. | 🔴 Inactive |
 
 ## Shaders
 
@@ -265,107 +283,132 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[Shader Tutorials](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) - DragoniteSpam.
 - 🗒️[GMShaders.com](https://gmshaders.com/) - Shader tutorials from Xor. Originally hosted at "xorshaders.com".
 - 🧰[Shadertoy to GameMaker](https://iarri.github.io/Shadertoy2GM/) - Convert shadertoy.com GLSL shaders to run in GameMaker.
-- 🟢💸[Post-Processing FX](https://foxyofjungle.itch.io/post-processing-fx) - 50+ high-quality, customizable effects.
-- 🔴[TransFX](https://short-bread.itch.io/transfx) - Transition Library.
-- 🔴[BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader.
-- 🔴[bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader.
-- 🔴[H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
-- 🔴[Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) - Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android.
-- 🔴[1PassBlur](https://github.com/XorDev/1PassBlur/wiki) - Blur Shader with adjustable radius.
-- 🔴[Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) - Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase.
-- 🔴[Dual-Kawase](https://github.com/XorDev/Dual-Kawase/wiki) - Blur Shader that limits radius but is very efficient.
-- 🔴[Xor's Halftone](https://xordev.itch.io/halftone) - A wonderful, versitile halftone shader. Lots of tweakable settings.
-- 🔴[Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) - Sampled pixels on a Voronoi diagram.
-- 🔴[Fire-Fun](https://github.com/XorDev/Fire-Fun/wiki) - Some fun magic fireballs.
-- 🔴[Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - Jump Flooding Algorithm for GameMaker made with shaders.
-- 🔴[Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) - Outline shader.
-- 🔴[Chameleon](https://github.com/Lojemiru/Chameleon) - Palette Swapper.
-- 🔴[Xpanda](https://github.com/GameMakerDiscord/Xpanda) - Include code from external files in your shaders.
+
+| Name | Description | Status |
+|---|---|---|
+| [Post-Processing FX](https://foxyofjungle.itch.io/post-processing-fx) 💸 | 50+ high-quality, customizable effects. | 🟢 Active |
+| [TransFX](https://short-bread.itch.io/transfx) | Transition Library. | 🔴 Inactive |
+| [BJRTFX](https://zikbakguru.itch.io/bjrtfx) | Zik's CRT Utility Shader. | 🔴 Inactive |
+| [bktGlitch](https://odditica.itch.io/bktglitch) | Glitch shader. | 🔴 Inactive |
+| [H O R R I - F I](https://gizmo199.itch.io/horri-fi) | VHS Shader. | 🔴 Inactive |
+| [Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) | Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android. | 🔴 Inactive |
+| [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) | Blur Shader with adjustable radius. | 🔴 Inactive |
+| [Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) | Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase. | 🔴 Inactive |
+| [Dual-Kawase](https://github.com/XorDev/Dual-Kawase/wiki) | Blur Shader that limits radius but is very efficient. | 🔴 Inactive |
+| [Xor's Halftone](https://xordev.itch.io/halftone) | A wonderful, versitile halftone shader. Lots of tweakable settings. | 🔴 Inactive |
+| [Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) | Sampled pixels on a Voronoi diagram. | 🔴 Inactive |
+| [Fire-Fun](https://github.com/XorDev/Fire-Fun/wiki) | Some fun magic fireballs. | 🔴 Inactive |
+| [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) | Jump Flooding Algorithm for GameMaker made with shaders. | 🔴 Inactive |
+| [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) | Outline shader. | 🔴 Inactive |
+| [Chameleon](https://github.com/Lojemiru/Chameleon) | Palette Swapper. | 🔴 Inactive |
+| [Xpanda](https://github.com/GameMakerDiscord/Xpanda) | Include code from external files in your shaders. | 🔴 Inactive |
 
 ## 3D
 
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[3D GameMaker Playlist](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) - DragoniteSpam.
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[3D Collisions Playlist](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) - DragoniteSpam.
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[3D Optimization Playlist](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) - DragoniteSpam.
-- 🟢[BBMOD](https://github.com/blueburn-cz/BBMOD) - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
-- 🟢[ColMesh](https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/) - 3D Collision Library from TheSnidr.
-- 🟢[DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) - Import/Export tools to load vertex buffer data out of Blender and into GMS.
-- 🟢[Penguin](https://dragonite.itch.io/penguin) - 3D model conversion tool.
-- 🔴[3D-2D](https://github.com/YoYoGames/3D-2D) - Official tool to turn 3D models into 2D sprites.
-- 🔴[BSP 4 GMS](https://cdlegasse.itch.io/ozarq-bsp-4-gms) - Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on.
-- 🔴[dotobj](https://github.com/JujuAdams/dotobj) - Lightweight .obj/.mtl 3D model loader written in native GML.
-- 🔴[Bronze Box](https://github.com/cicadian/Bronze-Box) - Example of how to build 3D world models from a 2D grid.
-- 🔴[Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup.
-- 🔴[Blender to GameMaker](https://github.com/blender-to-gmstudio) - A collection of scripts to export and import Blender models to and from GameMaker.
-- 🔴[Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) - Source for a GameMaker 3D game.
-- 🔴[sPart](https://marketplace.yoyogames.com/assets/7299/spart-3d-particle-system) - 3D Particle System from TheSnidr.
-- 🔴[Terrain Editor](https://dragonite.itch.io/terrain) - Terrain editor. Exports to gm models, obj, or vertex buffers.
-- 🔴[Snowy Snow](https://dragonite.itch.io/snowy-snow) - 3D Snow Shader.
-- 🔴💸[3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system) - 3D point lights using shaders.
+
+| Name | Description | Status |
+|---|---|---|
+| [BBMOD](https://github.com/blueburn-cz/BBMOD) | 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more. | 🟢 Active |
+| [ColMesh](https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/) | 3D Collision Library from TheSnidr. | 🟢 Active |
+| [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) | Import/Export tools to load vertex buffer data out of Blender and into GMS. | 🟢 Active |
+| [Penguin](https://dragonite.itch.io/penguin) | 3D model conversion tool. | 🟢 Active |
+| [3D-2D](https://github.com/YoYoGames/3D-2D) | Official tool to turn 3D models into 2D sprites. | 🔴 Inactive |
+| [BSP 4 GMS](https://cdlegasse.itch.io/ozarq-bsp-4-gms) | Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on. | 🔴 Inactive |
+| [dotobj](https://github.com/JujuAdams/dotobj) | Lightweight .obj/.mtl 3D model loader written in native GML. | 🔴 Inactive |
+| [Bronze Box](https://github.com/cicadian/Bronze-Box) | Example of how to build 3D world models from a 2D grid. | 🔴 Inactive |
+| [Camera3D](https://gizmo199.itch.io/camera3d) | Simple 3D camera setup. | 🔴 Inactive |
+| [Blender to GameMaker](https://github.com/blender-to-gmstudio) | A collection of scripts to export and import Blender models to and from GameMaker. | 🔴 Inactive |
+| [Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) | Source for a GameMaker 3D game. | 🔴 Inactive |
+| [sPart](https://marketplace.yoyogames.com/assets/7299/spart-3d-particle-system) | 3D Particle System from TheSnidr. | 🔴 Inactive |
+| [Terrain Editor](https://dragonite.itch.io/terrain) | Terrain editor. Exports to gm models, obj, or vertex buffers. | 🔴 Inactive |
+| [Snowy Snow](https://dragonite.itch.io/snowy-snow) | 3D Snow Shader. | 🔴 Inactive |
+| [3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system) 💸 | 3D point lights using shaders. | 🔴 Inactive |
+
 
 ## Sprite Stacking
 
 - 🗒️[Beginners Guide to Sprite Stacking](https://medium.com/@avsnoopy/beginners-guide-to-sprite-stacking-in-gamemaker-studio-2-and-magica-voxel-part-1-f7a1394569c0) - A primer on sprite stacking from Avis. Check out part 2 from dev_dwarf as well.
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[Sprite Stacking Tutorials](https://www.youtube.com/watch?v=VIDN-nG3EOU&list=PL3Kbpztq9qwT9MbW_k4yyJU__or1r8P2j) - Gizmo199.
-- 🔴[Fauxton3D](https://gizmo199.itch.io/fauxton3d) - Sprite stacking engine.
+
+| Name | Description | Status |
+|---|---|---|
+| [Fauxton3D](https://gizmo199.itch.io/fauxton3d) | Sprite stacking engine. | 🔴 Inactive |
 
 ## Networking
 
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[Multiplayer Networking Tutorial](https://www.youtube.com/watch?v=NbsXRuNijlo&list=PLxaJReoxlrY_S4MrCYjzFCSrNX1TUX626) - Wizirdi.
-- 🟢[MultiClient](https://github.com/tabularelf/MultiClient) - Non-dll, multiple client launcher for network development.
-- 🟡[Warp](https://github.com/evolutionleo/Warp) - A feature-rich framework for multiplayer games, written in GameMaker and Node.js.
-- 🔴[EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) - Host/client implementation with a chat feature.
-- 🔴[Patchwire-GM](https://github.com/gm-core/patchwire-gm) - The network library from gm-core if you want to use this implementation without the entire gm-core suite.
-- 🔴[GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8) - A Gist demonstrating a network handshake.
-- 🔴[HTTP GML](https://github.com/Sidorakh/http.gml) - Recieve GET requests and upload files in GML.
-- 🔴[GMNest](https://github.com/TimVN/GMNest) - Socket.IO extension for HTML5 games.
-- 🔴[Good GameMaker Rollback](https://springrollgames.itch.io/ggmr) - Rollback netcode library.
-- 🔴[GM Networking](https://github.com/gmclan-org/gm_networking) - Very simple network code demonstration.
-- 🔴[Boomers Networking](https://github.com/gmclan-org/gm_boomers_networking) - Network library which mimics pre-GM:Studio favorite networking extension 39dll using GM native functions.
-- 🔴[Rocket Networking Engine](https://marketplace.gamemaker.io/assets/11424/rocket-networking-engine) - Easy low-code multiplayer engine.
+
+| Name | Description | Status |
+|---|---|---|
+| [MultiClient](https://github.com/tabularelf/MultiClient) | Non-dll, multiple client launcher for network development. | 🟢 Active |
+| [Warp](https://github.com/evolutionleo/Warp) | A feature-rich framework for multiplayer games, written in GameMaker and Node.js. | 🟡 Semi-Active |
+| [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) | Host/client implementation with a chat feature. | 🔴 Inactive |
+| [Patchwire-GM](https://github.com/gm-core/patchwire-gm) | The network library from gm-core if you want to use this implementation without the entire gm-core suite. | 🔴 Inactive |
+| [GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8) | A Gist demonstrating a network handshake. | 🔴 Inactive |
+| [HTTP GML](https://github.com/Sidorakh/http.gml) | Recieve GET requests and upload files in GML. | 🔴 Inactive |
+| [GMNest](https://github.com/TimVN/GMNest) | Socket.IO extension for HTML5 games. | 🔴 Inactive |
+| [Good GameMaker Rollback](https://springrollgames.itch.io/ggmr) | Rollback netcode library. | 🔴 Inactive |
+| [GM Networking](https://github.com/gmclan-org/gm_networking) | Very simple network code demonstration. | 🔴 Inactive |
+| [Boomers Networking](https://github.com/gmclan-org/gm_boomers_networking) | Network library which mimics pre-GM:Studio favorite networking extension 39dll using GM native functions. | 🔴 Inactive |
+| [Rocket Networking Engine](https://marketplace.gamemaker.io/assets/11424/rocket-networking-engine) | Easy low-code multiplayer engine. | 🔴 Inactive |
 
 ## Integrations
 
-- 🟢[GMHook](https://github.com/Kruger0/GMHook) - We really like Discord integration.
-- 🟡[GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) - Another Discord integration.
-- 🔴[DHook](https://github.com/tabularelf/DHook) - Discord integration.
-- 🔴[NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Oops, all Discord integration.
-- 🔴[Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) - Various expansions to Steamworks SDK support in GameMaker: Studio.
-- 🔴[Parworks](https://github.com/nkrapivin/Parworks) - Additional functionality for the YYG Steamworks extension.
-- 🔴[GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
-- 🔴[GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) - Twitch integration.
+| Name | Description | Status |
+|---|---|---|
+| [GMHook](https://github.com/Kruger0/GMHook) | We really like Discord integration. | 🟢 Active |
+| [GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) | Another Discord integration. | 🟡 Semi-Active |
+| [DHook](https://github.com/tabularelf/DHook) | Discord integration. | 🔴 Inactive |
+| [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) | Oops, all Discord integration. | 🔴 Inactive |
+| [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) | Various expansions to Steamworks SDK support in GameMaker: Studio. | 🔴 Inactive |
+| [Parworks](https://github.com/nkrapivin/Parworks) | Additional functionality for the YYG Steamworks extension. | 🔴 Inactive |
+| [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) | A native extension for GOG.com SDK support. | 🔴 Inactive |
+| [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) | Twitch integration. | 🔴 Inactive |
 
 ## Camera
 
-- [GameMaker Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk) - Pixelated Pope's guide on GameMaker's camera system. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GameMaker.
-- [Pixel Perfect Smooth Camera](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) - An example of pixel-perfect yet smooth camera.
-- [Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) - Local multiplayer split screen implementation that merges the camera when players are close.
-- [STANNcam](https://github.com/jack27121/STANNcam) - Camera and resolution manager.
-- [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera) - Editor, screenshake, view-resizing, follow modes, screen effects, etc. 💸
+- ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[GameMaker Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk) - Pixelated Pope's guide on GameMaker's camera system.
+- 🗒️[Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GameMaker.
+
+| Name | Description | Status |
+|---|---|---|
+| [Pixel Perfect Smooth Camera](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) | An example of pixel-perfect yet smooth camera. | 🔴 Inactive |
+| [Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) | Local multiplayer split screen implementation that merges the camera when players are close. | 🔴 Inactive |
+| [STANNcam](https://github.com/jack27121/STANNcam) | Camera and resolution manager. | 🔴 Inactive |
+| [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera) | Editor, screenshake, view-resizing, follow modes, screen effects, etc. | 🔴 Inactive |
 
 ## Sequences
 
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) - Shaun Spalding.
 - ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[Making Splash Screen Sequences](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade.
-- 🔴[DuplicateSequence](https://github.com/KeeVeeGames/DuplicateSequence.gml) - Make a deep copy of sequence assets/structs for editing at runtime.
+
+| Name | Description | Status |
+|---|---|---|
+| [DuplicateSequence](https://github.com/KeeVeeGames/DuplicateSequence.gml) | Make a deep copy of sequence assets/structs for editing at runtime. | 🔴 Inactive |
 
 ## State Machines
 
-- 🟢[SnowState](https://github.com/sohomsahaun/SnowState) - Robust finite state machine.
-- 🔴[FastSM](https://github.com/JulianDicken/FastSM) - Lightweight alternative to SnowState.
-- 🔴[wFSM](https://mors-games.itch.io/wfsm) - Another Easy-to-use Finite State Machine library.
-- 🔴[True State](https://pixelatedpope.itch.io/truestate) - Feature-rich finite state machine to handle complex objects.
-- 🔴[Pinocchio](https://github.com/JujuAdams/Pinocchio) - State-based animation system.
-- 🔴[BehaviorTree](https://github.com/Gizmo199/BehaviorTree) - A simple behavior tree system.
-- 🔴[FSM AI](https://github.com/gmclan-org/FSM-AI-module) - Finite state machine for NPC AI.
+| Name | Description | Status |
+|---|---|---|
+| [SnowState](https://github.com/sohomsahaun/SnowState) | Robust finite state machine. | 🟢 Active |
+| [FastSM](https://github.com/JulianDicken/FastSM) | Lightweight alternative to SnowState. | 🔴 Inactive |
+| [wFSM](https://mors-games.itch.io/wfsm) | Another Easy-to-use Finite State Machine library. | 🔴 Inactive |
+| [True State](https://pixelatedpope.itch.io/truestate) | Feature-rich finite state machine to handle complex objects. | 🔴 Inactive |
+| [Pinocchio](https://github.com/JujuAdams/Pinocchio) | State-based animation system. | 🔴 Inactive |
+| [BehaviorTree](https://github.com/Gizmo199/BehaviorTree) | A simple behavior tree system. | 🔴 Inactive |
+| [FSM AI](https://github.com/gmclan-org/FSM-AI-module) | Finite state machine for NPC AI. | 🔴 Inactive |
 
 ## Pathing
 
-- 🔴[Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding implementation.
-- 🔴[A-Star-Pathing](https://github.com/helloalbertdang/A-Star-Pathing) - Another A* pathfinding implementation.
-- 🔴[Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
-- 🔴[Pathfinding in graph](https://github.com/gmclan-org/dijkstra-graph) - Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.
+| Name | Description | Status |
+|---|---|---|
+| [Aquila](https://dragonite.itch.io/aquila) | A* Pathfinding implementation. | 🔴 Inactive |
+| [A-Star-Pathing](https://github.com/helloalbertdang/A-Star-Pathing) | Another A* pathfinding implementation. | 🔴 Inactive |
+| [Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) | Flexible pathfinding system with 3 different algorithms. | 🔴 Inactive |
+| [Pathfinding in graph](https://github.com/gmclan-org/dijkstra-graph) | Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm. | 🔴 Inactive |
 
 ## Useful Extras
 
