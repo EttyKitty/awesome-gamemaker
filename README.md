@@ -110,7 +110,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Autoframer](https://github.com/mstop4/auto-framer) - Automatically handles resizing the game view across different display and window sizes.
 - [gameframe](https://github.com/YAL-GameMaker/gameframe) - Custom window caption and border for Windows.
 - [GML+](https://xgasoft.itch.io/gmlp) - A script collection with a goal to "fill the gaps" in GML. 💸
-- [GMLive](https://yellowafterlife.itch.io/gamemaker-live) - Livecoding / interactive programming. 💸
+- 💸[GMLive](https://yellowafterlife.itch.io/gamemaker-live) - Livecoding / interactive programming. 💸
 - [GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GameMaker.
 - [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes `.yyp` files for you.
 - [Rubber](https://github.com/GameMakerDiscord/Rubber) - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
