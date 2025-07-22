@@ -146,9 +146,10 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Input Handling
 
+- 🟢[Input](https://github.com/offalynne/input) - No nonsense gamepad/keyboard library.
 - 🟢[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors. 💸
 - 🟡[InputCandy](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled.
-- 🔴[Input](https://github.com/JujuAdams/input) - No nonsense gamepad/keyboard library.
+- 🔴[Input(JujuAdams fork)](https://github.com/JujuAdams/input) - No nonsense gamepad/keyboard library.
 - 🔴[XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
 - 🔴[Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
 - 🔴[Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) - Tracks the Windows mouse pointer with high precision.
