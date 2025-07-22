@@ -137,27 +137,32 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Debugging
 
-- 🟢[Duck](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
-- 🟢[Gobo](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
-- 🟡[Snitch](https://github.com/JujuAdams/Snitch) - Crash and logging system.
-- 🔴[rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.
-- 🔴[Olympus](https://github.com/bscotch/olympus#readme) - Testing Framework.
-- 🔴[Crispy](https://github.com/bfrymire/crispy) - Unit testing in GameMaker.
-- 🔴[DeerLog](https://mulfok.itch.io/gamemaker-deerlog) - Small log writer.
-- 🔴[gms2-test](https://github.com/pmarincak/gms2-test) - Unit testing framework.
-- 🔴[Meta](https://github.com/nommiin/meta) - Runtime asset inspector.
-- 🔴[FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
-- 🔴[Inspectron](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
+| Name | Description | Status |
+|------|-------------|--------|
+| [Duck](https://github.com/imlazyeye/duck) | A fast GML analyzer to enforce code styling and detect errors. | 🟢 Active |
+| [Gobo](https://github.com/Pizzaandy/Gobo/) | An opinionated code formatter for GML. | 🟢 Active |
+| [Snitch](https://github.com/JujuAdams/Snitch) | Crash and logging system. | 🟡 Semi-Active |
+| [rt-shell](https://github.com/daikon-games/rt-shell) | Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc. | 🔴 Inactive |
+| [Olympus](https://github.com/bscotch/olympus#readme) | Testing Framework. | 🔴 Inactive |
+| [Crispy](https://github.com/bfrymire/crispy) | Unit testing in GameMaker. | 🔴 Inactive |
+| [DeerLog](https://mulfok.itch.io/gamemaker-deerlog) | Small log writer. | 🔴 Inactive |
+| [gms2-test](https://github.com/pmarincak/gms2-test) | Unit testing framework. | 🔴 Inactive |
+| [Meta](https://github.com/nommiin/meta) | Runtime asset inspector. | 🔴 Inactive |
+| [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) | Pretty framerate display. | 🔴 Inactive |
+| [Inspectron](https://github.com/shdwcat/Inspectron) | A fluent API for easily creating GameMaker debug views. | 🔴 Inactive |
+
 
 ## Input Handling
 
-- 🟢[Input](https://github.com/offalynne/input) - No nonsense gamepad/keyboard library.
-- 🟢[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors. 💸
-- 🟡[InputCandy](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled.
-- 🔴[Input(JujuAdams fork)](https://github.com/JujuAdams/input) - No nonsense gamepad/keyboard library.
-- 🔴[XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
-- 🔴[Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
-- 🔴[Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) - Tracks the Windows mouse pointer with high precision.
+| Name | Description | Status |
+|---|---|---|
+| [Input](https://github.com/offalynne/input) | No nonsense gamepad/keyboard library. | 🟢 Active |
+| [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) 💸 | System-level custom cursors. | 🟢 Active |
+| [InputCandy](https://github.com/LAGameStudio/InputCandy) | Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled. | 🟡 Semi-Active |
+| [Input(JujuAdams fork)](https://github.com/JujuAdams/input) | No nonsense gamepad/keyboard library. | 🔴 Inactive |
+| [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) | Another library to handle multiple inputs for a single action. | 🔴 Inactive |
+| [Good Vibes](https://github.com/mrdaneeyul/good-vibes) | Device vibration. | 🔴 Inactive |
+| [Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) | Tracks the Windows mouse pointer with high precision. | 🔴 Inactive |
 
 ## User Interface
 
