@@ -11,7 +11,6 @@
 What kind of games can you make in GameMaker? [Check out this list.](https://steamdb.info/tech/Engine/GameMaker/)
 
 ## Contents
-
 - [Getting Started](#getting-started)
 - [Utilities](#utilities)
 - [Debugging](#debugging)
@@ -57,13 +56,19 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
 - Schedule routine backups for projects. If you are dealing with larger media files in your repo, try [Git LFS](https://git-lfs.github.com/).
 
+## Status Icons
+
+- 🟢 - had repository activity in the past 3 months.
+- 🟡 - had repository activity in the past 6 months.
+- 🔴 - had no repository activity in more than 6 months.
+
 ## Utilities
 
-- [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
-- [FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
-- [Stitch](https://www.npmjs.com/package/@bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more. Tested on Windows only.
-- [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
-- [handytools](https://github.com/JujuAdams/handytools/) - A collection of Juju's libraries in one convenient project.
+- 🔴[gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
+- 🔴[FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
+- 🟢[Stitch](https://www.npmjs.com/package/@bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more. Tested on Windows only.
+- 🔴[DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
+- 🔴[handytools](https://github.com/JujuAdams/handytools/) - A collection of Juju's libraries in one convenient project.
 - [GameMaker Scaffolding](https://github.com/babaganosch/GameMakerScaffolding) - Another cool all-encompassing template with a focus on building low-res, tile-based games.
 - [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 - [Stopwatch](https://github.com/Lojemiru/Stopwatch) - GameMaker alarm replacement.
@@ -127,26 +132,26 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Debugging
 
-- [rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.
-- [Olympus](https://github.com/bscotch/olympus#readme) - Testing Framework.
-- [Crispy](https://github.com/bfrymire/crispy) - Unit testing in GameMaker.
-- [Snitch](https://github.com/JujuAdams/Snitch) - Crash and logging system.
-- [DeerLog](https://mulfok.itch.io/gamemaker-deerlog) - Small log writer.
-- [gms2-test](https://github.com/pmarincak/gms2-test) - Unit testing framework.
-- [Meta](https://github.com/nommiin/meta) - Runtime asset inspector.
-- [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
-- [Duck](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
-- [Gobo](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
-- [Inspectron](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
+- 🟢[Duck](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
+- 🟢[Gobo](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
+- 🟡[Snitch](https://github.com/JujuAdams/Snitch) - Crash and logging system.
+- 🔴[rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.
+- 🔴[Olympus](https://github.com/bscotch/olympus#readme) - Testing Framework.
+- 🔴[Crispy](https://github.com/bfrymire/crispy) - Unit testing in GameMaker.
+- 🔴[DeerLog](https://mulfok.itch.io/gamemaker-deerlog) - Small log writer.
+- 🔴[gms2-test](https://github.com/pmarincak/gms2-test) - Unit testing framework.
+- 🔴[Meta](https://github.com/nommiin/meta) - Runtime asset inspector.
+- 🔴[FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
+- 🔴[Inspectron](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
 
 ## Input Handling
 
-- [Input](https://github.com/JujuAdams/input) - No nonsense gamepad/keyboard library.
-- [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
-- [InputCandy](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled.
-- [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
-- [Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) - Tracks the Windows mouse pointer with high precision.
-- [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors. 💸
+- 🟢[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors. 💸
+- 🟡[InputCandy](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled.
+- 🔴[Input](https://github.com/JujuAdams/input) - No nonsense gamepad/keyboard library.
+- 🔴[XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
+- 🔴[Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
+- 🔴[Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) - Tracks the Windows mouse pointer with high precision.
 
 ## User Interface
 
@@ -174,33 +179,33 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Localization
 
-- [polyglot](https://github.com/daikon-games/polyglot) - Localization library.
-- [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) - Internationalization of texts simply and quickly, using JSON files.
-- [lexicon](https://github.com/tabularelf/lexicon) - Another localization solution focused on simplifying implementation.
-- [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
-- [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
-- [gms2-mofile](https://github.com/pmarincak/gms2-mofile) - Mofile reader used for localization.
+- 🟢[lexicon](https://github.com/tabularelf/lexicon) - Another localization solution focused on simplifying implementation.
+- 🔴[polyglot](https://github.com/daikon-games/polyglot) - Localization library.
+- 🔴[gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) - Internationalization of texts simply and quickly, using JSON files.
+- 🔴[GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
+- 🔴[Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
+- 🔴[gms2-mofile](https://github.com/pmarincak/gms2-mofile) - Mofile reader used for localization.
 
 ## Physics
 
-- [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine.
-- [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
-- [GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - GameMaker implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
-- [Inverse Kinematics Extension](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) - A library for working with inverse kinematics.
-- [Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) - Verlet integration by Sarek Lambert.
-- [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
-- [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) - Robust object-based collision system from Pixelated Pope.
+- 🟡[Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) - Verlet integration by Sarek Lambert.
+- 🔴[Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine.
+- 🔴[On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
+- 🔴[GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - GameMaker implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
+- 🔴[Inverse Kinematics Extension](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) - A library for working with inverse kinematics.
+- 🔴[GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
+- 🔴[Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) - Robust object-based collision system from Pixelated Pope.
 
 ## Sprites
 
-- [AESnips](https://github.com/angelwire/AESnips) - A sprite playback system.
-- [phgen](https://github.com/squircledev/phgen) - Placeholder asset generation.
-- [Disarm](https://github.com/NuxiiGit/disarm) - A spriter skeletal animation at runtime.
-- [Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) - Image correction and cleanup for 2D video game sprites.
-- [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) - Pixel art upscaling shader for awkward resolutions for GameMaker.
-- [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
-- [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) - Similar to ASESync. Export Aesprite files to GameMaker sprites.
-- [Collage](https://github.com/tabularelf/Collage) - Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.
+- 🟢[Collage](https://github.com/tabularelf/Collage) - Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.
+- 🔴[AESnips](https://github.com/angelwire/AESnips) - A sprite playback system.
+- 🔴[phgen](https://github.com/squircledev/phgen) - Placeholder asset generation.
+- 🔴[Disarm](https://github.com/NuxiiGit/disarm) - A spriter skeletal animation at runtime.
+- 🔴[Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) - Image correction and cleanup for 2D video game sprites.
+- 🔴[PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) - Pixel art upscaling shader for awkward resolutions for GameMaker.
+- 🔴[ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
+- 🔴[conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) - Similar to ASESync. Export Aesprite files to GameMaker sprites.
 
 ## Audio
 
