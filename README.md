@@ -319,14 +319,14 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Integrations
 
-- [DHook](https://github.com/tabularelf/DHook) - Discord integration.
-- [GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) - Another Discord integration.
-- [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Oops, all Discord integration.
-- [GMHook](https://github.com/Kruger0/GMHook) - We really like Discord integration.
-- [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) - Various expansions to Steamworks SDK support in GameMaker: Studio.
-- [Parworks](https://github.com/nkrapivin/Parworks) - Additional functionality for the YYG Steamworks extension.
-- [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
-- [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) - Twitch integration.
+- 🟢[GMHook](https://github.com/Kruger0/GMHook) - We really like Discord integration.
+- 🟡[GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) - Another Discord integration.
+- 🔴[DHook](https://github.com/tabularelf/DHook) - Discord integration.
+- 🔴[NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Oops, all Discord integration.
+- 🔴[Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) - Various expansions to Steamworks SDK support in GameMaker: Studio.
+- 🔴[Parworks](https://github.com/nkrapivin/Parworks) - Additional functionality for the YYG Steamworks extension.
+- 🔴[GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
+- 🔴[GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) - Twitch integration.
 
 ## Camera
 
@@ -339,26 +339,26 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Sequences
 
-- [Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) - Shaun Spalding. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [Making Splash Screen Sequences](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [DuplicateSequence](https://github.com/KeeVeeGames/DuplicateSequence.gml) - Make a deep copy of sequence assets/structs for editing at runtime.
+- ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) - Shaun Spalding.
+- ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)[Making Splash Screen Sequences](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade.
+- 🔴[DuplicateSequence](https://github.com/KeeVeeGames/DuplicateSequence.gml) - Make a deep copy of sequence assets/structs for editing at runtime.
 
 ## State Machines
 
-- [SnowState](https://github.com/sohomsahaun/SnowState) - Robust finite state machine.
-- [FastSM](https://github.com/JulianDicken/FastSM) - Lightweight alternative to SnowState.
-- [wFSM](https://mors-games.itch.io/wfsm) - Another Easy-to-use Finite State Machine library.
-- [True State](https://pixelatedpope.itch.io/truestate) - Feature-rich finite state machine to handle complex objects.
-- [Pinocchio](https://github.com/JujuAdams/Pinocchio) - State-based animation system.
-- [BehaviorTree](https://github.com/Gizmo199/BehaviorTree) - A simple behavior tree system.
-- [FSM AI](https://github.com/gmclan-org/FSM-AI-module) - Finite state machine for NPC AI.
+- 🟢[SnowState](https://github.com/sohomsahaun/SnowState) - Robust finite state machine.
+- 🔴[FastSM](https://github.com/JulianDicken/FastSM) - Lightweight alternative to SnowState.
+- 🔴[wFSM](https://mors-games.itch.io/wfsm) - Another Easy-to-use Finite State Machine library.
+- 🔴[True State](https://pixelatedpope.itch.io/truestate) - Feature-rich finite state machine to handle complex objects.
+- 🔴[Pinocchio](https://github.com/JujuAdams/Pinocchio) - State-based animation system.
+- 🔴[BehaviorTree](https://github.com/Gizmo199/BehaviorTree) - A simple behavior tree system.
+- 🔴[FSM AI](https://github.com/gmclan-org/FSM-AI-module) - Finite state machine for NPC AI.
 
 ## Pathing
 
-- [Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding implementation.
-- [A-Star-Pathing](https://github.com/helloalbertdang/A-Star-Pathing) - Another A* pathfinding implementation.
-- [Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
-- [Pathfinding in graph](https://github.com/gmclan-org/dijkstra-graph) - Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.
+- 🔴[Aquila](https://dragonite.itch.io/aquila) - A* Pathfinding implementation.
+- 🔴[A-Star-Pathing](https://github.com/helloalbertdang/A-Star-Pathing) - Another A* pathfinding implementation.
+- 🔴[Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
+- 🔴[Pathfinding in graph](https://github.com/gmclan-org/dijkstra-graph) - Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.
 
 ## Useful Extras
 
