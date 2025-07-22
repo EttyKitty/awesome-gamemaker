@@ -222,15 +222,15 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Levels
 
-- [LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer.
-- [LDtkParser](https://github.com/evolutionleo/LDtkParser) - Advanced LDtk Importer.
-- [Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Collects room data and stores it into a JSON for later use.
-- [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
-- [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) - A random level generation example (similar to Nuclear Throne) using GameMaker.
-- [Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map but not production ready in its current state.
-- [Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) - An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.
-- [Cellular Automata Caves](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
-- [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
+- 🟢[LDtkParser](https://github.com/evolutionleo/LDtkParser) - Advanced LDtk Importer.
+- 🟢[GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
+- 🔴[LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer.
+- 🔴[Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Collects room data and stores it into a JSON for later use.
+- 🔴[Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
+- 🔴[Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) - A random level generation example (similar to Nuclear Throne) using GameMaker.
+- 🔴[Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map but not production ready in its current state.
+- 🔴[Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) - An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.
+- 🔴[Cellular Automata Caves](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
 
 ## Particles
 
