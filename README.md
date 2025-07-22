@@ -56,8 +56,10 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
 - Schedule routine backups for projects. If you are dealing with larger media files in your repo, try [Git LFS](https://git-lfs.github.com/).
 
-## Status Icons
-
+## Icons
+- ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png) - a YouTube video.
+- 🧰 - an online tool to do something.
+- 🗒️ - a written guide.
 - 🟢 - had repository activity in the past 3 months.
 - 🟡 - had repository activity in the past 6 months.
 - 🔴 - had no repository activity in more than 6 months.
