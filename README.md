@@ -73,6 +73,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 This includes data structures and file formats that do not fit into a more specific category.
 
+| Name | Description | Status |
+|------|-------------|--------|
 | [GML-OOP](https://github.com/Mtax-Development/GML-OOP) | A constructor library for operating the primary functionalities of GameMaker. | 🟢 Active |
 | [GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) | Another project that adds OOP functionality to GameMaker. | 🔴 Inactive |
 | [Destructors](https://github.com/DatZach/Destructors) | Allows you to use ds_ types such as lists and maps inside of structs. | 🔴 Inactive |
@@ -100,7 +102,6 @@ This includes data structures and file formats that do not fit into a more speci
 ## Native Extensions
 
 These work on specific platform(s) and enable the games to do something that would be impossible, impractical, or inefficient to do in GML alone. Native extensions related to a specific task (e.g. input handling) can be found in those sections.
-
 
 | Name | Description | Status |
 |------|-------------|--------|
