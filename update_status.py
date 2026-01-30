@@ -31,7 +31,7 @@ logger = logging.getLogger(__name__)
 
 
 def get_github_date(repo_url: str) -> str | None:
-    """Fetch the last commit date for a GitHub repository."""
+    """Fetch the latest commit date from the HEAD (default branch)."""
     match = re.search(r"github\.com/([^/]+)/([^/)]+)", repo_url)
     if not match:
         return None
@@ -39,7 +39,7 @@ def get_github_date(repo_url: str) -> str | None:
     owner, repo = match.groups()
     repo = repo.split("/")[0].replace(".git", "")
 
-    api_url = f"https://api.github.com/repos/{owner}/{repo}"
+    api_url = f"https://api.github.com/repos/{owner}/{repo}/commits/HEAD"
     req = urllib.request.Request(api_url, method="GET")
 
     if GITHUB_TOKEN:
