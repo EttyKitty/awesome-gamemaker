@@ -40,8 +40,8 @@ def get_github_date(repo_url: str) -> str | None:
     repo = repo.split("/")[0].replace(".git", "")
 
     api_url = f"https://api.github.com/repos/{owner}/{repo}/commits/HEAD"
-    req = urllib.request.Request(api_url, method="GET")
-
+    req = urllib.request.Request(api_url)
+    req.add_header("Accept", "application/vnd.github+json")
     if GITHUB_TOKEN:
         req.add_header("Authorization", f"token {GITHUB_TOKEN}")
 
@@ -49,7 +49,7 @@ def get_github_date(repo_url: str) -> str | None:
         time.sleep(0.5)
         with urllib.request.urlopen(req, timeout=5) as response:
             data = json.loads(response.read().decode())
-            return data.get("pushed_at")
+            return data.get("commit", {}).get("committer", {}).get("date")
     except urllib.error.HTTPError as e:
         if e.code in RATE_LIMIT_STATUS_CODES:
             logger.critical("Rate limit hit on %s. Terminating.", repo_url)
@@ -72,13 +72,12 @@ def calculate_status(date_str: str | None) -> str:
         return "⚠️ Dead Link"
 
     try:
-        last_push = datetime.datetime.strptime(
-            date_str[:10],
-            "%Y-%m-%d",
-        ).replace(tzinfo=datetime.timezone.utc)
+        last_commit_date = datetime.datetime.fromisoformat(
+            date_str.replace("Z", "+00:00")
+        )
 
         now = datetime.datetime.now(datetime.timezone.utc)
-        days_diff = (now - last_push).days
+        days_diff = (now - last_commit_date).days
 
         if days_diff <= ACTIVE_DAYS:
             return "🟢 Active"
