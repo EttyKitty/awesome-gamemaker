@@ -202,6 +202,7 @@ Things that work with project files or GameMaker itself rather than being someth
 |------|-------------|--------|
 | [Duck](https://github.com/imlazyeye/duck) | A fast GML analyzer to enforce code styling and detect errors. | 🔴 Inactive |
 | [Gobo](https://github.com/Pizzaandy/Gobo/) | An opinionated code formatter for GML. | 🟢 Active |
+| [Gobo (EttyKitty fork)](https://github.com/EttyKitty/Gobo/) | A bit less opinionated code formatter for GML, with more options and functionality. | 🟢 Active |
 | [Snitch](https://github.com/JujuAdams/Snitch) | Crash and logging system. | 🔴 Inactive |
 | [rt-shell](https://github.com/daikon-games/rt-shell) | Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc. | 🔴 Inactive |
 | [Olympus](https://github.com/bscotch/olympus#readme) | Testing Framework. | Unknown |
