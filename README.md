@@ -176,7 +176,7 @@ Custom timers, timelines, and task scheduling.
 | [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) | Proof of concept for multiprocessing. | 🟡 Semi-Active |
 | [Figgy](https://github.com/glebtsereteli/Figgy) | Centralized and persistent live configs for seamless game tuning and balancing. | 🟢 Active |
 | [RenderStack](https://github.com/FoxyOfJungle/RenderStack) | Organize your game's rendering into a customizable order. | 🟢 Active |
-| [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) | Improves Catspeak performance. | 🟢 Active |
+| [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) | Improves Catspeak performance. | 🟡 Semi-Active |
 
 
 ## Tools
@@ -240,7 +240,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [YUI](https://github.com/shdwcat/YUI) | A UI system with live reloading, template system, data binding, and a drag and drop feature. | 🔴 Inactive |
 | [Emu UI](https://github.com/DragoniteSpam/Emu) | Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc). | 🟢 Active |
 | [gooey](https://manta-ray.itch.io/gooey) | Sprite-based UI Library for GameMaker LTS. | Unknown |
-| [Chatterbox](https://github.com/JujuAdams/chatterbox) | Narrative scripting tool. | 🟡 Semi-Active |
+| [Chatterbox](https://github.com/JujuAdams/chatterbox) | Narrative scripting tool. | 🟢 Active |
 | [Scripture](https://pixelatedpope.itch.io/scripture) | Another easy to use, highly compatible text renderer. | Unknown |
 | [Textboxy](https://github.com/glitchroy/textboxy) | Simple textboxes. | 🔴 Inactive |
 | [Crochet](https://github.com/FaultyFunctions/Crochet) | An interactive dialogue editor for writers and programmers. | 🔴 Inactive |
@@ -400,7 +400,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status |
 |---|---|---|
-| [BBMOD](https://github.com/blueburn-cz/BBMOD) | 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more. | 🟢 Active |
+| [BBMOD](https://github.com/blueburn-cz/BBMOD) | 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more. | 🔴 Inactive |
 | [ColMesh](https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/) | 3D Collision Library from TheSnidr. | Unknown |
 | [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) | Import/Export tools to load vertex buffer data out of Blender and into GMS. | 🟢 Active |
 | [Penguin](https://dragonite.itch.io/penguin) | 3D model conversion tool. | Unknown |
