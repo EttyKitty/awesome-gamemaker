@@ -146,13 +146,13 @@ Custom timers, timelines, and task scheduling.
 | Name | Description | Status |
 |------|-------------|--------|
 | [Coroutines](https://github.com/JujuAdams/Coroutines) | Asynchronous functions for GameMaker. | 🔴 Inactive |
-| [Canvas](https://github.com/tabularelf/Canvas) | Another great solution for surface management. | 🔴 Inactive |
+| [Canvas](https://github.com/tabularelf/Canvas) | Another great solution for surface management. | 🟢 Active |
 | 💸[GMLive](https://yellowafterlife.itch.io/gamemaker-live) | Livecoding / interactive programming. | Unknown |
 | [Catspeak](https://github.com/katsaii/catspeak-lang) | Cross-platform programming language for modding support. | 🔴 Inactive |
 | [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) | A tool to benchmark GML code. | 🟢 Active |
 | [gm-core](https://github.com/gm-core) | Foundational utility suite for networking, testing, and QoL. | Unknown |
 | [FAST](https://github.com/Hyomoto/FAST) | Flexible Assistant Toolkit for input and resolution handling. | 🔴 Inactive |
-| [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) | General purpose game editor. | 🔴 Inactive |
+| [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) | General purpose game editor. | 🟢 Active |
 | [handytools](https://github.com/JujuAdams/handytools/) | A collection of Juju's libraries in one project. | 🔴 Inactive |
 | [GameMaker Scaffolding](https://github.com/babaganosch/GameMakerScaffolding) | Template for building low-res, tile-based games. | 🔴 Inactive |
 | [Broadcast](https://github.com/JulianDicken/Broadcast) | Event handling library. | 🔴 Inactive |
@@ -201,7 +201,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status |
 |------|-------------|--------|
 | [Duck](https://github.com/imlazyeye/duck) | A fast GML analyzer to enforce code styling and detect errors. | 🔴 Inactive |
-| [Gobo](https://github.com/Pizzaandy/Gobo/) | An opinionated code formatter for GML. | 🟢 Active |
+| [Gobo](https://github.com/Pizzaandy/Gobo/) | An opinionated code formatter for GML. | 🟡 Semi-Active |
 | [Gobo (EttyKitty fork)](https://github.com/EttyKitty/Gobo/) | A bit less opinionated code formatter for GML, with more options and functionality. | 🟢 Active |
 | [Snitch](https://github.com/JujuAdams/Snitch) | Crash and logging system. | 🔴 Inactive |
 | [rt-shell](https://github.com/daikon-games/rt-shell) | Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc. | 🔴 Inactive |
@@ -255,7 +255,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [GUI Framework](https://niris.itch.io/gui-framework) | GUI implementation from Niris Games. | Unknown |
 | [zitk](https://github.com/TandyRum1024/zitk) | Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on. | 🔴 Inactive |
 | [SimpleUI](https://github.com/evolutionleo/SimpleUI) | Minimalistic UI framework. | 🔴 Inactive |
-| [LimeUI](https://github.com/Limekys/LimeUI) | Flexpanel system for modern, touch-friendly interfaces. | 🟡 Semi-Active |
+| [LimeUI](https://github.com/Limekys/LimeUI) | Flexpanel system for modern, touch-friendly interfaces. | 🟢 Active |
 | [GMUI](https://github.com/erkan612/GMUI) | Immediate mode GameMaker UI library, tons of UI components. | 🟢 Active |
 | [MajorGUI](https://github.com/erkan612/MajorGUI_GML) | Surface-based GUI that allows 100% control over UI styling and functionality. | 🟢 Active |
 
@@ -290,7 +290,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status |
 |---|---|---|
-| [Collage](https://github.com/tabularelf/Collage) | Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility. | 🔴 Inactive |
+| [Collage](https://github.com/tabularelf/Collage) | Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility. | 🟢 Active |
 | [AESnips](https://github.com/angelwire/AESnips) | A sprite playback system. | 🔴 Inactive |
 | [phgen](https://github.com/squircledev/phgen) | Placeholder asset generation. | 🔴 Inactive |
 | [Disarm](https://github.com/NuxiiGit/disarm) | A spriter skeletal animation at runtime. | 🔴 Inactive |
