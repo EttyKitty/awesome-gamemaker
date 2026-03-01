@@ -122,7 +122,7 @@ These work on specific platform(s) and enable the games to do something that wou
 | [file_dropper](https://yellowafterlife.itch.io/gamemaker-file-dropper) | Accept drag-and-dropping files onto a game window on Windows. | Unknown |
 | [file_dragger](https://github.com/YAL-GameMaker/file_dragger) | Drag-and-drop files *out* of the game window on Windows. | 🔴 Inactive |
 | [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands) | Dispatch/intercept window controls like Minimize. | Unknown |
-| [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) | A way to use JS extensions in GX/WASM games. | 🟡 Semi-Active |
+| [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) | A way to use JS extensions in GX/WASM games. | 🔴 Inactive |
 | [Web Dynamic Textures](https://yellowafterlife.itch.io/gamemaker-web-dyn-textures) | A dynamic texture page loading system for HTML5. | Unknown |
 | [GMWinBackdrop](https://topherlicious.itch.io/gmwinbackdrop) | Windows 11 backdrop materials. | Unknown |
 
@@ -151,7 +151,7 @@ Custom timers, timelines, and task scheduling.
 | [Catspeak](https://github.com/katsaii/catspeak-lang) | Cross-platform programming language for modding support. | 🔴 Inactive |
 | [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) | A tool to benchmark GML code. | 🟢 Active |
 | [gm-core](https://github.com/gm-core) | Foundational utility suite for networking, testing, and QoL. | Unknown |
-| [FAST](https://github.com/Hyomoto/FAST) | Flexible Assistant Toolkit for input and resolution handling. | 🔴 Inactive |
+| [FAST](https://github.com/Hyomoto/FAST) | Flexible Assistant Toolkit for input and resolution handling. | 🟢 Active |
 | [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) | General purpose game editor. | 🟢 Active |
 | [handytools](https://github.com/JujuAdams/handytools/) | A collection of Juju's libraries in one project. | 🔴 Inactive |
 | [GameMaker Scaffolding](https://github.com/babaganosch/GameMakerScaffolding) | Template for building low-res, tile-based games. | 🔴 Inactive |
@@ -206,7 +206,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Snitch](https://github.com/JujuAdams/Snitch) | Crash and logging system. | 🔴 Inactive |
 | [rt-shell](https://github.com/daikon-games/rt-shell) | Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc. | 🔴 Inactive |
 | [Olympus](https://github.com/bscotch/olympus#readme) | Testing Framework. | Unknown |
-| [Crispy](https://github.com/bfrymire/crispy) | Unit testing in GameMaker. | 🟢 Active |
+| [Crispy](https://github.com/bfrymire/crispy) | Unit testing in GameMaker. | 🟡 Semi-Active |
 | [DeerLog](https://mulfok.itch.io/gamemaker-deerlog) | Small log writer. | Unknown |
 | [gms2-test](https://github.com/pmarincak/gms2-test) | Unit testing framework. | 🔴 Inactive |
 | [Meta](https://github.com/nommiin/meta) | Runtime asset inspector. | 🔴 Inactive |
@@ -264,7 +264,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status |
 |---|---|---|
 | [lexicon](https://github.com/tabularelf/lexicon) | Another localization solution focused on simplifying implementation. | 🟢 Active |
-| [polyglot](https://github.com/daikon-games/polyglot) | Localization library. | 🔴 Inactive |
+| [polyglot](https://github.com/daikon-games/polyglot) | Localization library. | 🟢 Active |
 | [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) | Internationalization of texts simply and quickly, using JSON files. | 🔴 Inactive |
 | [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) | Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file. | 🔴 Inactive |
 | [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) | Similar export tool to GMLocalize but exports to a csv. | 🟢 Active |
