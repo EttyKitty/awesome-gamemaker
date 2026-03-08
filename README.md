@@ -257,7 +257,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [SimpleUI](https://github.com/evolutionleo/SimpleUI) | Minimalistic UI framework. | 🔴 Inactive |
 | [LimeUI](https://github.com/Limekys/LimeUI) | Flexpanel system for modern, touch-friendly interfaces. | 🟢 Active |
 | [GMUI](https://github.com/erkan612/GMUI) | Immediate mode GameMaker UI library, tons of UI components. | 🟢 Active |
-| [MajorGUI](https://github.com/erkan612/MajorGUI_GML) | Surface-based GUI that allows 100% control over UI styling and functionality. | 🟢 Active |
+| [MajorGUI](https://github.com/erkan612/MajorGUI_GML) | Surface-based GUI that allows 100% control over UI styling and functionality. | 🟡 Semi-Active |
 
 ## Localization
 
@@ -450,7 +450,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status |
 |---|---|---|
-| [GMHook](https://github.com/Kruger0/GMHook) | We really like Discord integration. | 🟢 Active |
+| [GMHook](https://github.com/Kruger0/GMHook) | We really like Discord integration. | 🟡 Semi-Active |
 | [GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) | Another Discord integration. | 🟡 Semi-Active |
 | [DHook](https://github.com/tabularelf/DHook) | Discord integration. | 🔴 Inactive |
 | [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) | Oops, all Discord integration. | Unknown |
