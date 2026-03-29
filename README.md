@@ -194,7 +194,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [sfGML](https://yellowafterlife.itch.io/gamemaker-haxe) | Generate GML code from strongly-typed Haxe. | Unknown |
 | [Win7 patcher for GM2024.11+](https://yellowafterlife.itch.io/gm2024-win7-patcher) | Makes games made in new GM versions run on Windows 7. | Unknown |
 | 💸[RerouteAudio](https://yellowafterlife.itch.io/gamemaker-reroute-audio) | Organizes audio files compiled games into subdirectories. | Unknown |
-| [GMLC](https://github.com/tinkerer-red/GMLC) | Runtime compiler and interpreter to load, compile, and execute GML code at runtime. | 🟢 Active |
+| [GMLC](https://github.com/tinkerer-red/GMLC) | Runtime compiler and interpreter to load, compile, and execute GML code at runtime. | 🟡 Semi-Active |
 
 ## Debugging
 
@@ -435,7 +435,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status |
 |---|---|---|
 | [MultiClient](https://github.com/tabularelf/MultiClient) | Non-dll, multiple client launcher for network development. | 🟡 Semi-Active |
-| [Warp](https://github.com/evolutionleo/Warp) | A feature-rich framework for multiplayer games, written in GameMaker and Node.js. | 🟢 Active |
+| [Warp](https://github.com/evolutionleo/Warp) | A feature-rich framework for multiplayer games, written in GameMaker and Node.js. | 🟡 Semi-Active |
 | [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) | Host/client implementation with a chat feature. | Unknown |
 | [Patchwire-GM](https://github.com/gm-core/patchwire-gm) | The network library from gm-core if you want to use this implementation without the entire gm-core suite. | 🔴 Inactive |
 | [GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8) | A Gist demonstrating a network handshake. | ⚠️ Dead Link |
