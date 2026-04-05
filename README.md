@@ -110,7 +110,7 @@ These work on specific platform(s) and enable the games to do something that wou
 | [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) | A template project for building DLLs for GameMaker. | 🔴 Inactive |
 | [Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) | A suite of various extensions. | Unknown |
 | [gameframe](https://github.com/YAL-GameMaker/gameframe) | Custom window caption and border for Windows. | 🔴 Inactive |
-| [GMD3D11](https://github.com/blueburncz/GMD3D11) | A DLL for interfacing with Windows Direct3D. | 🟢 Active |
+| [GMD3D11](https://github.com/blueburncz/GMD3D11) | A DLL for interfacing with Windows Direct3D. | 🟡 Semi-Active |
 | [GM Sysinfo](https://github.com/SpikeHD/gm-sysinfo) | Cross-platform extension for getting system information and resource usage. | 🔴 Inactive |
 | [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) | Play videos (Note: Native GMS support now exists). | Unknown |
 | [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) | Webcam capture. | Unknown |
@@ -384,7 +384,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) | Jump Flooding Algorithm for GameMaker made with shaders. | Unknown |
 | [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) | Outline shader. | 🔴 Inactive |
 | [Chameleon](https://github.com/Lojemiru/Chameleon) | Palette Swapper. | 🔴 Inactive |
-| [Xpanda](https://github.com/GameMakerDiscord/Xpanda) | Include code from external files in your shaders. | 🟢 Active |
+| [Xpanda](https://github.com/GameMakerDiscord/Xpanda) | Include code from external files in your shaders. | 🟡 Semi-Active |
 | [Shadertoy to GameMaker](https://github.com/jfkn1ght/Shadertoy2GM) | Convert shadertoy.com shaders to run in GameMaker (GLSL ES). | 🟢 Active |
 | 💸[Lens Distortion FOV](https://foxyofjungle.itch.io/lens-distortion-fov-shader) | Useful FOV depth effect. | Unknown |
 | 💸[Fast Blur Area](https://foxyofjungle.itch.io/foxey-blur-area) | Fast alpha blur shader effect in two lines of code. | Unknown |
