@@ -173,7 +173,7 @@ Custom timers, timelines, and task scheduling.
 | [SSave](https://github.com/stoozey/SSave) | Simple file saving system. | 🟡 Semi-Active |
 | [GMTimeLine](https://github.com/TimVN/GMTimeLine) | Code-based timeline replacement. | 🔴 Inactive |
 | [Agenda](https://github.com/benal20/Agenda.gml) | Callback scheduling and delay. | 🔴 Inactive |
-| [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) | Proof of concept for multiprocessing. | 🟡 Semi-Active |
+| [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) | Proof of concept for multiprocessing. | 🔴 Inactive |
 | [Figgy](https://github.com/glebtsereteli/Figgy) | Centralized and persistent live configs for seamless game tuning and balancing. | 🟢 Active |
 | [RenderStack](https://github.com/FoxyOfJungle/RenderStack) | Organize your game's rendering into a customizable order. | 🟡 Semi-Active |
 | [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) | Improves Catspeak performance. | 🟡 Semi-Active |
@@ -267,7 +267,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [polyglot](https://github.com/daikon-games/polyglot) | Localization library. | 🟢 Active |
 | [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) | Internationalization of texts simply and quickly, using JSON files. | 🔴 Inactive |
 | [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) | Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file. | 🔴 Inactive |
-| [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) | Similar export tool to GMLocalize but exports to a csv. | 🟢 Active |
+| [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) | Similar export tool to GMLocalize but exports to a csv. | 🟡 Semi-Active |
 | [gms2-mofile](https://github.com/pmarincak/gms2-mofile) | Mofile reader used for localization. | 🔴 Inactive |
 | 💸[cmnLoc](https://yellowafterlife.itch.io/gamemaker-cmn-loc) | Localization library with a text extractor, short syntax, and ICU/pluralization support. | Unknown |
 | [MythLoco](https://mythloco.co.uk) | A localization system with a web-based strings editor. | Unknown |
@@ -406,7 +406,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Penguin](https://dragonite.itch.io/penguin) | 3D model conversion tool. | Unknown |
 | [3D-2D](https://github.com/YoYoGames/3D-2D) | Official tool to turn 3D models into 2D sprites. | 🔴 Inactive |
 | [BSP 4 GMS](https://cdlegasse.itch.io/ozarq-bsp-4-gms) | Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on. | Unknown |
-| [dotobj](https://github.com/JujuAdams/dotobj) | Lightweight .obj/.mtl 3D model loader written in native GML. | 🟡 Semi-Active |
+| [dotobj](https://github.com/JujuAdams/dotobj) | Lightweight .obj/.mtl 3D model loader written in native GML. | 🔴 Inactive |
 | [Bronze Box](https://github.com/cicadian/Bronze-Box) | Example of how to build 3D world models from a 2D grid. | 🔴 Inactive |
 | [Camera3D](https://gizmo199.itch.io/camera3d) | Simple 3D camera setup. | Unknown |
 | [Blender to GameMaker](https://github.com/blender-to-gmstudio) | A collection of scripts to export and import Blender models to and from GameMaker. | Unknown |
@@ -451,7 +451,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status |
 |---|---|---|
 | [GMHook](https://github.com/Kruger0/GMHook) | We really like Discord integration. | 🟢 Active |
-| [GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) | Another Discord integration. | 🟡 Semi-Active |
+| [GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) | Another Discord integration. | 🔴 Inactive |
 | [DHook](https://github.com/tabularelf/DHook) | Discord integration. | 🔴 Inactive |
 | [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) | Oops, all Discord integration. | Unknown |
 | [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) | Various expansions to Steamworks SDK support in GameMaker: Studio. | 🔴 Inactive |
