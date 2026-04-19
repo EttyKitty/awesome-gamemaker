@@ -170,7 +170,7 @@ Custom timers, timelines, and task scheduling.
 | [Autoframer](https://github.com/mstop4/auto-framer) | View resizing across resolutions. | 🔴 Inactive |
 | 💸[GML+](https://xgasoft.itch.io/gmlp) | Comprehensive utility script pack. | Unknown |
 | [gml-highscorer](https://github.com/Grisgram/gml-highscorer) | Highscore & trophy system. | 🔴 Inactive |
-| [SSave](https://github.com/stoozey/SSave) | Simple file saving system. | 🟡 Semi-Active |
+| [SSave](https://github.com/stoozey/SSave) | Simple file saving system. | 🔴 Inactive |
 | [GMTimeLine](https://github.com/TimVN/GMTimeLine) | Code-based timeline replacement. | 🔴 Inactive |
 | [Agenda](https://github.com/benal20/Agenda.gml) | Callback scheduling and delay. | 🔴 Inactive |
 | [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) | Proof of concept for multiprocessing. | 🔴 Inactive |
@@ -213,7 +213,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) | Pretty framerate display. | Unknown |
 | [Inspectron](https://github.com/shdwcat/Inspectron) | A fluent API for easily creating GameMaker debug views. | 🔴 Inactive |
 | 💸[GMPulse](https://topherlicious.itch.io/gmpulse) | A runtime inspector and control panel. | Unknown |
-| [Lookout](https://github.com/glebtsereteli/Lookout) | Helpful debug overlay views. | 🟢 Active |
+| [Lookout](https://github.com/glebtsereteli/Lookout) | Helpful debug overlay views. | 🟡 Semi-Active |
 
 ## Input Handling
 
@@ -294,12 +294,12 @@ Things that work with project files or GameMaker itself rather than being someth
 | [AESnips](https://github.com/angelwire/AESnips) | A sprite playback system. | 🔴 Inactive |
 | [phgen](https://github.com/squircledev/phgen) | Placeholder asset generation. | 🔴 Inactive |
 | [Disarm](https://github.com/NuxiiGit/disarm) | A spriter skeletal animation at runtime. | 🔴 Inactive |
-| [Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) | Image correction and cleanup for 2D video game sprites. | 🟢 Active |
+| [Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) | Image correction and cleanup for 2D video game sprites. | 🟡 Semi-Active |
 | [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) | Pixel art upscaling shader for awkward resolutions for GameMaker. | 🔴 Inactive |
 | [ASESync](https://sahaun.itch.io/asesync) | Automatically syncs aesprite files in GameMaker. | Unknown |
 | [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) | Similar to ASESync. Export Aesprite files to GameMaker sprites. | 🔴 Inactive |
 | [GM Animate](https://github.com/KormexGit/GM-Animate) | Sprite animation manager. | 🟢 Active |
-| [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) | Utilities for creating art asset pipelines. | 🟢 Active |
+| [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) | Utilities for creating art asset pipelines. | 🟡 Semi-Active |
 
 ## Audio
 
@@ -375,7 +375,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [bktGlitch](https://odditica.itch.io/bktglitch) | Glitch shader. | Unknown |
 | [H O R R I - F I](https://gizmo199.itch.io/horri-fi) | VHS Shader. | Unknown |
 | [Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) | Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android. | Unknown |
-| [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) | Blur Shader with adjustable radius. | 🟢 Active |
+| [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) | Blur Shader with adjustable radius. | 🟡 Semi-Active |
 | [Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) | Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase. | 🔴 Inactive |
 | [Dual-Kawase](https://github.com/XorDev/Dual-Kawase/wiki) | Blur Shader that limits radius but is very efficient. | 🔴 Inactive |
 | [Xor's Halftone](https://xordev.itch.io/halftone) | A wonderful, versitile halftone shader. Lots of tweakable settings. | Unknown |
@@ -400,7 +400,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status |
 |---|---|---|
-| [BBMOD](https://github.com/blueburn-cz/BBMOD) | 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more. | 🔴 Inactive |
+| [BBMOD](https://github.com/blueburn-cz/BBMOD) | 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more. | 🟢 Active |
 | [ColMesh](https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/) | 3D Collision Library from TheSnidr. | Unknown |
 | [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) | Import/Export tools to load vertex buffer data out of Blender and into GMS. | 🟢 Active |
 | [Penguin](https://dragonite.itch.io/penguin) | 3D model conversion tool. | Unknown |
