@@ -78,7 +78,7 @@ This includes data structures and file formats that do not fit into a more speci
 | [GML-OOP](https://github.com/Mtax-Development/GML-OOP) | A constructor library for operating the primary functionalities of GameMaker. | 🟢 Active |
 | [GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) | Another project that adds OOP functionality to GameMaker. | 🔴 Inactive |
 | [Destructors](https://github.com/DatZach/Destructors) | Allows you to use ds_ types such as lists and maps inside of structs. | 🔴 Inactive |
-| [SNAP](https://github.com/JujuAdams/SNAP) | Easy data format saving and loading (CSV, INI, XML, etc). | 🟢 Active |
+| [SNAP](https://github.com/JujuAdams/SNAP) | Easy data format saving and loading (CSV, INI, XML, etc). | 🟡 Semi-Active |
 | [LWO](https://github.com/tabularelf/lwo) | Lightweight objects using structs. | 🔴 Inactive |
 | [Lock And Key](https://github.com/AlubJ/Lock-And-Key) | String and file encryption. | 🔴 Inactive |
 | [Map](https://github.com/GameMakerDiscord/Map.gml) | Hash table implementations. | 🔴 Inactive |
@@ -90,8 +90,8 @@ This includes data structures and file formats that do not fit into a more speci
 | [Cottonwool](https://github.com/JujuAdams/Cottonwool) | Safe surfaces without memory leaks. | 🔴 Inactive |
 | [BSONGML](https://github.com/LAGameStudio/BSONGML) | Save and load GML structured data in binary files (BSON). | 🔴 Inactive |
 | [Binder](https://github.com/Homunculus84/Binder) | A binary search library for efficient lookups on large datasets. | 🔴 Inactive |
-| [Airkiver](https://github.com/AlubJ/Airkiver) | Game file archive tool. | 🟢 Active |
-| [OKColor](https://github.com/KeeVeeGames/OKColor.gml) | An okay color manager for implementing OKLab/OKLCH colors. | 🟢 Active |
+| [Airkiver](https://github.com/AlubJ/Airkiver) | Game file archive tool. | 🟡 Semi-Active |
+| [OKColor](https://github.com/KeeVeeGames/OKColor.gml) | An okay color manager for implementing OKLab/OKLCH colors. | 🟡 Semi-Active |
 | [Exception](https://github.com/KeeVeeGames/Exception.gml) | A base class for custom exceptions. | 🔴 Inactive |
 | [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) | Complete list class with garbage collection and fast sorting. | 🔴 Inactive |
 | [Bit Buffers](https://yellowafterlife.itch.io/gamemaker-bit-buffers) | Read and write buffers with per-bit granularity. | Unknown |
@@ -194,7 +194,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [sfGML](https://yellowafterlife.itch.io/gamemaker-haxe) | Generate GML code from strongly-typed Haxe. | Unknown |
 | [Win7 patcher for GM2024.11+](https://yellowafterlife.itch.io/gm2024-win7-patcher) | Makes games made in new GM versions run on Windows 7. | Unknown |
 | 💸[RerouteAudio](https://yellowafterlife.itch.io/gamemaker-reroute-audio) | Organizes audio files compiled games into subdirectories. | Unknown |
-| [GMLC](https://github.com/tinkerer-red/GMLC) | Runtime compiler and interpreter to load, compile, and execute GML code at runtime. | 🟡 Semi-Active |
+| [GMLC](https://github.com/tinkerer-red/GMLC) | Runtime compiler and interpreter to load, compile, and execute GML code at runtime. | 🟢 Active |
 
 ## Debugging
 
@@ -243,7 +243,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Chatterbox](https://github.com/JujuAdams/chatterbox) | Narrative scripting tool. | 🟢 Active |
 | [Scripture](https://pixelatedpope.itch.io/scripture) | Another easy to use, highly compatible text renderer. | Unknown |
 | [Textboxy](https://github.com/glitchroy/textboxy) | Simple textboxes. | 🔴 Inactive |
-| [Crochet](https://github.com/FaultyFunctions/Crochet) | An interactive dialogue editor for writers and programmers. | 🔴 Inactive |
+| [Crochet](https://github.com/FaultyFunctions/Crochet) | An interactive dialogue editor for writers and programmers. | 🟢 Active |
 | [NotificationSystem](https://github.com/babaganosch/NotificationSystem) | Notifications in GameMaker. | 🔴 Inactive |
 | [Guido](https://github.com/JujuAdams/Guido) | Simple immediate mode GUI framework. | 🔴 Inactive |
 | [GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) | A pure GML solution to structure and control your menus, drawing parallels to .NET UI. | 🔴 Inactive |
@@ -458,7 +458,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Parworks](https://github.com/nkrapivin/Parworks) | Additional functionality for the YYG Steamworks extension. | 🔴 Inactive |
 | [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) | A native extension for GOG.com SDK support. | 🔴 Inactive |
 | [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) | Twitch integration. | 🔴 Inactive |
-| [Github.gml](https://github.com/AlubJ/GitHub.gml) | GitHub REST API. | 🟢 Active |
+| [Github.gml](https://github.com/AlubJ/GitHub.gml) | GitHub REST API. | 🟡 Semi-Active |
 
 ## Camera
 
