@@ -174,7 +174,7 @@ Custom timers, timelines, and task scheduling.
 | [GMTimeLine](https://github.com/TimVN/GMTimeLine) | Code-based timeline replacement. | 🔴 Inactive |
 | [Agenda](https://github.com/benal20/Agenda.gml) | Callback scheduling and delay. | 🔴 Inactive |
 | [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) | Proof of concept for multiprocessing. | 🔴 Inactive |
-| [Figgy](https://github.com/glebtsereteli/Figgy) | Centralized and persistent live configs for seamless game tuning and balancing. | 🟢 Active |
+| [Figgy](https://github.com/glebtsereteli/Figgy) | Centralized and persistent live configs for seamless game tuning and balancing. | 🟡 Semi-Active |
 | [RenderStack](https://github.com/FoxyOfJungle/RenderStack) | Organize your game's rendering into a customizable order. | 🟡 Semi-Active |
 | [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) | Improves Catspeak performance. | 🟡 Semi-Active |
 
@@ -219,10 +219,10 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status |
 |---|---|---|
-| [Input](https://github.com/offalynne/input) | No nonsense gamepad/keyboard library. | 🟢 Active |
+| [Input](https://github.com/offalynne/input) | No nonsense gamepad/keyboard library. | 🟡 Semi-Active |
 | 💸[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) | System-level custom cursors. | Unknown |
 | [InputCandy](https://github.com/LAGameStudio/InputCandy) | Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled. | 🔴 Inactive |
-| [Input(JujuAdams fork)](https://github.com/JujuAdams/input) | No nonsense gamepad/keyboard library. | 🟢 Active |
+| [Input(JujuAdams fork)](https://github.com/JujuAdams/input) | No nonsense gamepad/keyboard library. | 🟡 Semi-Active |
 | [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) | Another library to handle multiple inputs for a single action. | Unknown |
 | [Good Vibes](https://github.com/mrdaneeyul/good-vibes) | Device vibration. | 🔴 Inactive |
 | [Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) | Tracks the Windows mouse pointer with high precision. | 🔴 Inactive |
@@ -236,7 +236,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status |
 |---|---|---|
-| [Scribble](https://github.com/JujuAdams/scribble) | Efficient multi-effects text renderer. | 🟢 Active |
+| [Scribble](https://github.com/JujuAdams/scribble) | Efficient multi-effects text renderer. | 🟡 Semi-Active |
 | [YUI](https://github.com/shdwcat/YUI) | A UI system with live reloading, template system, data binding, and a drag and drop feature. | 🔴 Inactive |
 | [Emu UI](https://github.com/DragoniteSpam/Emu) | Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc). | 🟢 Active |
 | [gooey](https://manta-ray.itch.io/gooey) | Sprite-based UI Library for GameMaker LTS. | Unknown |
@@ -298,7 +298,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) | Pixel art upscaling shader for awkward resolutions for GameMaker. | 🔴 Inactive |
 | [ASESync](https://sahaun.itch.io/asesync) | Automatically syncs aesprite files in GameMaker. | Unknown |
 | [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) | Similar to ASESync. Export Aesprite files to GameMaker sprites. | 🔴 Inactive |
-| [GM Animate](https://github.com/KormexGit/GM-Animate) | Sprite animation manager. | 🟢 Active |
+| [GM Animate](https://github.com/KormexGit/GM-Animate) | Sprite animation manager. | 🟡 Semi-Active |
 | [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) | Utilities for creating art asset pipelines. | 🟡 Semi-Active |
 
 ## Audio
@@ -306,7 +306,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status |
 |---|---|---|
 | [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) | Official support for FMOD in GameMaker. | 🟢 Active |
-| [Vinyl](https://github.com/JujuAdams/Vinyl) | Live updating audio system. | 🟢 Active |
+| [Vinyl](https://github.com/JujuAdams/Vinyl) | Live updating audio system. | 🟡 Semi-Active |
 | [FML](https://github.com/Nikkilae/fml) | GameMaker bindings for the FMOD Studio API. | 🔴 Inactive |
 | 💸[Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) | Optimized delay effect. | Unknown |
 | [wavload](https://github.com/nkrapivin/wavload) | Demonstrates how to externally load .wav files. | 🔴 Inactive |
