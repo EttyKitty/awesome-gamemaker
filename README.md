@@ -176,7 +176,7 @@ Custom timers, timelines, and task scheduling.
 | [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) | Proof of concept for multiprocessing. | 🔴 Inactive |
 | [Figgy](https://github.com/glebtsereteli/Figgy) | Centralized and persistent live configs for seamless game tuning and balancing. | 🟡 Semi-Active |
 | [RenderStack](https://github.com/FoxyOfJungle/RenderStack) | Organize your game's rendering into a customizable order. | 🟡 Semi-Active |
-| [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) | Improves Catspeak performance. | 🟡 Semi-Active |
+| [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) | Improves Catspeak performance. | 🔴 Inactive |
 
 
 ## Tools
@@ -203,7 +203,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Duck](https://github.com/imlazyeye/duck) | A fast GML analyzer to enforce code styling and detect errors. | 🔴 Inactive |
 | [Gobo](https://github.com/Pizzaandy/Gobo/) | An opinionated code formatter for GML. | 🟡 Semi-Active |
 | [Gobo (EttyKitty fork)](https://github.com/EttyKitty/Gobo/) | A bit less opinionated code formatter for GML, with more options and functionality. | 🟢 Active |
-| [Snitch](https://github.com/JujuAdams/Snitch) | Crash and logging system. | 🔴 Inactive |
+| [Snitch](https://github.com/JujuAdams/Snitch) | Crash and logging system. | 🟢 Active |
 | [rt-shell](https://github.com/daikon-games/rt-shell) | Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc. | 🔴 Inactive |
 | [Olympus](https://github.com/bscotch/olympus#readme) | Testing Framework. | Unknown |
 | [Crispy](https://github.com/bfrymire/crispy) | Unit testing in GameMaker. | 🟡 Semi-Active |
@@ -384,7 +384,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) | Jump Flooding Algorithm for GameMaker made with shaders. | Unknown |
 | [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) | Outline shader. | 🔴 Inactive |
 | [Chameleon](https://github.com/Lojemiru/Chameleon) | Palette Swapper. | 🔴 Inactive |
-| [Xpanda](https://github.com/GameMakerDiscord/Xpanda) | Include code from external files in your shaders. | 🟡 Semi-Active |
+| [Xpanda](https://github.com/GameMakerDiscord/Xpanda) | Include code from external files in your shaders. | 🟢 Active |
 | [Shadertoy to GameMaker](https://github.com/jfkn1ght/Shadertoy2GM) | Convert shadertoy.com shaders to run in GameMaker (GLSL ES). | 🟢 Active |
 | 💸[Lens Distortion FOV](https://foxyofjungle.itch.io/lens-distortion-fov-shader) | Useful FOV depth effect. | Unknown |
 | 💸[Fast Blur Area](https://foxyofjungle.itch.io/foxey-blur-area) | Fast alpha blur shader effect in two lines of code. | Unknown |
