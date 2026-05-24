@@ -78,7 +78,7 @@ This includes data structures and file formats that do not fit into a more speci
 | [GML-OOP](https://github.com/Mtax-Development/GML-OOP) | A constructor library for operating the primary functionalities of GameMaker. | 🟢 Active |
 | [GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) | Another project that adds OOP functionality to GameMaker. | 🔴 Inactive |
 | [Destructors](https://github.com/DatZach/Destructors) | Allows you to use ds_ types such as lists and maps inside of structs. | 🔴 Inactive |
-| [SNAP](https://github.com/JujuAdams/SNAP) | Easy data format saving and loading (CSV, INI, XML, etc). | 🟡 Semi-Active |
+| [SNAP](https://github.com/JujuAdams/SNAP) | Easy data format saving and loading (CSV, INI, XML, etc). | 🟢 Active |
 | [LWO](https://github.com/tabularelf/lwo) | Lightweight objects using structs. | 🔴 Inactive |
 | [Lock And Key](https://github.com/AlubJ/Lock-And-Key) | String and file encryption. | 🔴 Inactive |
 | [Map](https://github.com/GameMakerDiscord/Map.gml) | Hash table implementations. | 🔴 Inactive |
@@ -146,7 +146,7 @@ Custom timers, timelines, and task scheduling.
 | Name | Description | Status |
 |------|-------------|--------|
 | [Coroutines](https://github.com/JujuAdams/Coroutines) | Asynchronous functions for GameMaker. | 🔴 Inactive |
-| [Canvas](https://github.com/tabularelf/Canvas) | Another great solution for surface management. | 🟢 Active |
+| [Canvas](https://github.com/tabularelf/Canvas) | Another great solution for surface management. | 🟡 Semi-Active |
 | 💸[GMLive](https://yellowafterlife.itch.io/gamemaker-live) | Livecoding / interactive programming. | Unknown |
 | [Catspeak](https://github.com/katsaii/catspeak-lang) | Cross-platform programming language for modding support. | 🔴 Inactive |
 | [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) | A tool to benchmark GML code. | 🟡 Semi-Active |
@@ -201,7 +201,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status |
 |------|-------------|--------|
 | [Duck](https://github.com/imlazyeye/duck) | A fast GML analyzer to enforce code styling and detect errors. | 🔴 Inactive |
-| [Gobo](https://github.com/Pizzaandy/Gobo/) | An opinionated code formatter for GML. | 🟡 Semi-Active |
+| [Gobo](https://github.com/Pizzaandy/Gobo/) | An opinionated code formatter for GML. | 🔴 Inactive |
 | [Gobo (EttyKitty fork)](https://github.com/EttyKitty/Gobo/) | A bit less opinionated code formatter for GML, with more options and functionality. | 🟢 Active |
 | [Snitch](https://github.com/JujuAdams/Snitch) | Crash and logging system. | 🟢 Active |
 | [rt-shell](https://github.com/daikon-games/rt-shell) | Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc. | 🔴 Inactive |
@@ -238,7 +238,7 @@ Things that work with project files or GameMaker itself rather than being someth
 |---|---|---|
 | [Scribble](https://github.com/JujuAdams/scribble) | Efficient multi-effects text renderer. | 🟡 Semi-Active |
 | [YUI](https://github.com/shdwcat/YUI) | A UI system with live reloading, template system, data binding, and a drag and drop feature. | 🔴 Inactive |
-| [Emu UI](https://github.com/DragoniteSpam/Emu) | Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc). | 🟢 Active |
+| [Emu UI](https://github.com/DragoniteSpam/Emu) | Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc). | 🟡 Semi-Active |
 | [gooey](https://manta-ray.itch.io/gooey) | Sprite-based UI Library for GameMaker LTS. | Unknown |
 | [Chatterbox](https://github.com/JujuAdams/chatterbox) | Narrative scripting tool. | 🟢 Active |
 | [Scripture](https://pixelatedpope.itch.io/scripture) | Another easy to use, highly compatible text renderer. | Unknown |
@@ -290,7 +290,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status |
 |---|---|---|
-| [Collage](https://github.com/tabularelf/Collage) | Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility. | 🟢 Active |
+| [Collage](https://github.com/tabularelf/Collage) | Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility. | 🟡 Semi-Active |
 | [AESnips](https://github.com/angelwire/AESnips) | A sprite playback system. | 🔴 Inactive |
 | [phgen](https://github.com/squircledev/phgen) | Placeholder asset generation. | 🔴 Inactive |
 | [Disarm](https://github.com/NuxiiGit/disarm) | A spriter skeletal animation at runtime. | 🔴 Inactive |
@@ -329,7 +329,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status |
 |---|---|---|
 | [LDtkParser](https://github.com/evolutionleo/LDtkParser) | Advanced LDtk Importer. | 🔴 Inactive |
-| [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) | Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation. | 🟡 Semi-Active |
+| [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) | Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation. | 🟢 Active |
 | [LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) | LDtk Importer. | Unknown |
 | [Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) | Collects room data and stores it into a JSON for later use. | 🔴 Inactive |
 | [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) | Combines user-defined chambers to create a dungeon. | 🔴 Inactive |
@@ -469,7 +469,7 @@ Things that work with project files or GameMaker itself rather than being someth
 |---|---|---|
 | [Pixel Perfect Smooth Camera](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) | An example of pixel-perfect yet smooth camera. | 🔴 Inactive |
 | [Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) | Local multiplayer split screen implementation that merges the camera when players are close. | Unknown |
-| [STANNcam](https://github.com/jack27121/STANNcam) | Camera and resolution manager. | 🟢 Active |
+| [STANNcam](https://github.com/jack27121/STANNcam) | Camera and resolution manager. | 🟡 Semi-Active |
 | [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera) | Editor, screenshake, view-resizing, follow modes, screen effects, etc. | Unknown |
 | 💸[REZOL](https://foxyofjungle.itch.io/rezol) | Complete resolution & screen manager (with split-screen support). | Unknown |
 
