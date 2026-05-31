@@ -148,17 +148,17 @@ Custom timers, timelines, and task scheduling.
 | [Coroutines](https://github.com/JujuAdams/Coroutines) | Asynchronous functions for GameMaker. | 🔴 Inactive |
 | [Canvas](https://github.com/tabularelf/Canvas) | Another great solution for surface management. | 🟡 Semi-Active |
 | 💸[GMLive](https://yellowafterlife.itch.io/gamemaker-live) | Livecoding / interactive programming. | Unknown |
-| [Catspeak](https://github.com/katsaii/catspeak-lang) | Cross-platform programming language for modding support. | 🔴 Inactive |
+| [Catspeak](https://github.com/katsaii/catspeak-lang) | Cross-platform programming language for modding support. | 🟢 Active |
 | [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) | A tool to benchmark GML code. | 🟡 Semi-Active |
 | [gm-core](https://github.com/gm-core) | Foundational utility suite for networking, testing, and QoL. | Unknown |
-| [FAST](https://github.com/Hyomoto/FAST) | Flexible Assistant Toolkit for input and resolution handling. | 🟢 Active |
+| [FAST](https://github.com/Hyomoto/FAST) | Flexible Assistant Toolkit for input and resolution handling. | 🟡 Semi-Active |
 | [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) | General purpose game editor. | 🟢 Active |
 | [handytools](https://github.com/JujuAdams/handytools/) | A collection of Juju's libraries in one project. | 🔴 Inactive |
 | [GameMaker Scaffolding](https://github.com/babaganosch/GameMakerScaffolding) | Template for building low-res, tile-based games. | 🔴 Inactive |
 | [Broadcast](https://github.com/JulianDicken/Broadcast) | Event handling library. | 🔴 Inactive |
 | [Polarca](https://github.com/VitorEstevam/polarca) | Interpolation functions. | 🔴 Inactive |
 | [Twerp](https://pixelatedpope.itch.io/twerp) | Easing function like lerp(). | Unknown |
-| [Dynamo](https://github.com/JujuAdams/Dynamo) | Dynamic data loader. | 🔴 Inactive |
+| [Dynamo](https://github.com/JujuAdams/Dynamo) | Dynamic data loader. | 🟢 Active |
 | [Gumshoe](https://github.com/JujuAdams/Gumshoe) | Simple deep file search. | 🔴 Inactive |
 | [Mathematical Scripts](https://github.com/adam-rumpf/game-maker-scripts) | Math helper scripts. | 🔴 Inactive |
 | [Seedpod](https://github.com/daikon-games/gm-seedpod) | Utility scripts to enhance GML dev. | 🔴 Inactive |
@@ -206,7 +206,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Snitch](https://github.com/JujuAdams/Snitch) | Crash and logging system. | 🟢 Active |
 | [rt-shell](https://github.com/daikon-games/rt-shell) | Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc. | 🔴 Inactive |
 | [Olympus](https://github.com/bscotch/olympus#readme) | Testing Framework. | Unknown |
-| [Crispy](https://github.com/bfrymire/crispy) | Unit testing in GameMaker. | 🟡 Semi-Active |
+| [Crispy](https://github.com/bfrymire/crispy) | Unit testing in GameMaker. | 🔴 Inactive |
 | [DeerLog](https://mulfok.itch.io/gamemaker-deerlog) | Small log writer. | Unknown |
 | [gms2-test](https://github.com/pmarincak/gms2-test) | Unit testing framework. | 🔴 Inactive |
 | [Meta](https://github.com/nommiin/meta) | Runtime asset inspector. | 🔴 Inactive |
@@ -264,7 +264,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status |
 |---|---|---|
 | [lexicon](https://github.com/tabularelf/lexicon) | Another localization solution focused on simplifying implementation. | 🟢 Active |
-| [polyglot](https://github.com/daikon-games/polyglot) | Localization library. | 🟢 Active |
+| [polyglot](https://github.com/daikon-games/polyglot) | Localization library. | 🟡 Semi-Active |
 | [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) | Internationalization of texts simply and quickly, using JSON files. | 🔴 Inactive |
 | [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) | Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file. | 🔴 Inactive |
 | [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) | Similar export tool to GMLocalize but exports to a csv. | 🟡 Semi-Active |
