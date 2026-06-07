@@ -306,7 +306,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status |
 |---|---|---|
 | [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) | Official support for FMOD in GameMaker. | 🟢 Active |
-| [Vinyl](https://github.com/JujuAdams/Vinyl) | Live updating audio system. | 🟡 Semi-Active |
+| [Vinyl](https://github.com/JujuAdams/Vinyl) | Live updating audio system. | 🟢 Active |
 | [FML](https://github.com/Nikkilae/fml) | GameMaker bindings for the FMOD Studio API. | 🔴 Inactive |
 | 💸[Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) | Optimized delay effect. | Unknown |
 | [wavload](https://github.com/nkrapivin/wavload) | Demonstrates how to externally load .wav files. | 🔴 Inactive |
@@ -402,7 +402,7 @@ Things that work with project files or GameMaker itself rather than being someth
 |---|---|---|
 | [BBMOD](https://github.com/blueburn-cz/BBMOD) | 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more. | 🟢 Active |
 | [ColMesh](https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/) | 3D Collision Library from TheSnidr. | Unknown |
-| [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) | Import/Export tools to load vertex buffer data out of Blender and into GMS. | 🟢 Active |
+| [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) | Import/Export tools to load vertex buffer data out of Blender and into GMS. | 🟡 Semi-Active |
 | [Penguin](https://dragonite.itch.io/penguin) | 3D model conversion tool. | Unknown |
 | [3D-2D](https://github.com/YoYoGames/3D-2D) | Official tool to turn 3D models into 2D sprites. | 🔴 Inactive |
 | [BSP 4 GMS](https://cdlegasse.itch.io/ozarq-bsp-4-gms) | Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on. | Unknown |
