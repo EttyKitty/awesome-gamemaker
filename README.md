@@ -97,7 +97,7 @@ This includes data structures and file formats that do not fit into a more speci
 | [Bit Buffers](https://yellowafterlife.itch.io/gamemaker-bit-buffers) | Read and write buffers with per-bit granularity. | Unknown |
 | [sprite_add_gif](https://yellowafterlife.itch.io/gamemaker-sprite-add-gif) | Dynamically load animated GIFs as sprites. | Unknown |
 | 💸[Managix](https://foxyofjungle.itch.io/managix) | Async memory & resources manager (texture/audio groups). | Unknown |
-| [Ngrams](https://github.com/tinkerer-red/Ngrams) | Lightweight n-gram library for fuzzy search and predictive text. | 🟡 Semi-Active |
+| [Ngrams](https://github.com/tinkerer-red/Ngrams) | Lightweight n-gram library for fuzzy search and predictive text. | 🔴 Inactive |
 
 ## Native Extensions
 
@@ -345,7 +345,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Particle Editor](https://gamemakercasts.itch.io/particle-editor) | Create particles with an easy UI and export into GML code. | Unknown |
 | [Particles Wrapper](https://github.com/GamemakerCasts/particles) | A simplistic particle system wrapper that is designed to make creating particles fun and easy. | 🔴 Inactive |
 | [Advanced Particles](https://limekys.itch.io/advanced-particle-system) | A particle implementation that comes with it's own delta timing methods. | Unknown |
-| [Pulse](https://github.com/Delfos1/Pulse) | A library to create more complex particle emitters, systems and particles. | 🟡 Semi-Active |
+| [Pulse](https://github.com/Delfos1/Pulse) | A library to create more complex particle emitters, systems and particles. | 🔴 Inactive |
 | [Burrn](https://github.com/FoxyOfJungle/Burrn) | Built-in particle system that uses the particle asset built into the IDE. | 🔴 Inactive |
 
 ## Lighting
@@ -385,7 +385,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) | Outline shader. | 🔴 Inactive |
 | [Chameleon](https://github.com/Lojemiru/Chameleon) | Palette Swapper. | 🔴 Inactive |
 | [Xpanda](https://github.com/GameMakerDiscord/Xpanda) | Include code from external files in your shaders. | 🟢 Active |
-| [Shadertoy to GameMaker](https://github.com/jfkn1ght/Shadertoy2GM) | Convert shadertoy.com shaders to run in GameMaker (GLSL ES). | 🟢 Active |
+| [Shadertoy to GameMaker](https://github.com/jfkn1ght/Shadertoy2GM) | Convert shadertoy.com shaders to run in GameMaker (GLSL ES). | 🟡 Semi-Active |
 | 💸[Lens Distortion FOV](https://foxyofjungle.itch.io/lens-distortion-fov-shader) | Useful FOV depth effect. | Unknown |
 | 💸[Fast Blur Area](https://foxyofjungle.itch.io/foxey-blur-area) | Fast alpha blur shader effect in two lines of code. | Unknown |
 | 💸[Transitions Pro](https://foxyofjungle.itch.io/foxey-transitions-pro) | 42 customizable transitions. | Unknown |
@@ -434,7 +434,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status |
 |---|---|---|
-| [MultiClient](https://github.com/tabularelf/MultiClient) | Non-dll, multiple client launcher for network development. | 🟡 Semi-Active |
+| [MultiClient](https://github.com/tabularelf/MultiClient) | Non-dll, multiple client launcher for network development. | 🔴 Inactive |
 | [Warp](https://github.com/evolutionleo/Warp) | A feature-rich framework for multiplayer games, written in GameMaker and Node.js. | 🟡 Semi-Active |
 | [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) | Host/client implementation with a chat feature. | Unknown |
 | [Patchwire-GM](https://github.com/gm-core/patchwire-gm) | The network library from gm-core if you want to use this implementation without the entire gm-core suite. | 🔴 Inactive |
