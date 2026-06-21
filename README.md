@@ -132,7 +132,7 @@ Custom timers, timelines, and task scheduling.
 
 | Name | Description | Status |
 |------|-------------|--------|
-| [Iota](https://github.com/JujuAdams/iota) | Lightweight timestep library. | 🔴 Inactive |
+| [Iota](https://github.com/JujuAdams/iota) | Lightweight timestep library. | 🟢 Active |
 | [Stopwatch](https://github.com/Lojemiru/Stopwatch) | GameMaker alarm replacement. | 🔴 Inactive |
 | [wTimer](https://mors-games.itch.io/wtimer) | Robust alternative for alarms. | Unknown |
 | [FrogAlarm](https://github.com/colmeye/FrogAlarms) | Easy alarm system alternative. | 🔴 Inactive |
@@ -174,8 +174,8 @@ Custom timers, timelines, and task scheduling.
 | [GMTimeLine](https://github.com/TimVN/GMTimeLine) | Code-based timeline replacement. | 🔴 Inactive |
 | [Agenda](https://github.com/benal20/Agenda.gml) | Callback scheduling and delay. | 🔴 Inactive |
 | [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) | Proof of concept for multiprocessing. | 🔴 Inactive |
-| [Figgy](https://github.com/glebtsereteli/Figgy) | Centralized and persistent live configs for seamless game tuning and balancing. | 🟡 Semi-Active |
-| [RenderStack](https://github.com/FoxyOfJungle/RenderStack) | Organize your game's rendering into a customizable order. | 🟡 Semi-Active |
+| [Figgy](https://github.com/glebtsereteli/Figgy) | Centralized and persistent live configs for seamless game tuning and balancing. | 🟢 Active |
+| [RenderStack](https://github.com/FoxyOfJungle/RenderStack) | Organize your game's rendering into a customizable order. | 🔴 Inactive |
 | [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) | Improves Catspeak performance. | 🔴 Inactive |
 
 
@@ -294,12 +294,12 @@ Things that work with project files or GameMaker itself rather than being someth
 | [AESnips](https://github.com/angelwire/AESnips) | A sprite playback system. | 🔴 Inactive |
 | [phgen](https://github.com/squircledev/phgen) | Placeholder asset generation. | 🔴 Inactive |
 | [Disarm](https://github.com/NuxiiGit/disarm) | A spriter skeletal animation at runtime. | 🔴 Inactive |
-| [Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) | Image correction and cleanup for 2D video game sprites. | 🟡 Semi-Active |
+| [Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) | Image correction and cleanup for 2D video game sprites. | 🟢 Active |
 | [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) | Pixel art upscaling shader for awkward resolutions for GameMaker. | 🔴 Inactive |
 | [ASESync](https://sahaun.itch.io/asesync) | Automatically syncs aesprite files in GameMaker. | Unknown |
 | [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) | Similar to ASESync. Export Aesprite files to GameMaker sprites. | 🔴 Inactive |
 | [GM Animate](https://github.com/KormexGit/GM-Animate) | Sprite animation manager. | 🟡 Semi-Active |
-| [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) | Utilities for creating art asset pipelines. | 🟡 Semi-Active |
+| [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) | Utilities for creating art asset pipelines. | 🟢 Active |
 
 ## Audio
 
@@ -435,7 +435,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status |
 |---|---|---|
 | [MultiClient](https://github.com/tabularelf/MultiClient) | Non-dll, multiple client launcher for network development. | 🔴 Inactive |
-| [Warp](https://github.com/evolutionleo/Warp) | A feature-rich framework for multiplayer games, written in GameMaker and Node.js. | 🟡 Semi-Active |
+| [Warp](https://github.com/evolutionleo/Warp) | A feature-rich framework for multiplayer games, written in GameMaker and Node.js. | 🔴 Inactive |
 | [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) | Host/client implementation with a chat feature. | Unknown |
 | [Patchwire-GM](https://github.com/gm-core/patchwire-gm) | The network library from gm-core if you want to use this implementation without the entire gm-core suite. | 🔴 Inactive |
 | [GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8) | A Gist demonstrating a network handshake. | ⚠️ Dead Link |
@@ -450,7 +450,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status |
 |---|---|---|
-| [GMHook](https://github.com/Kruger0/GMHook) | We really like Discord integration. | 🟢 Active |
+| [GMHook](https://github.com/Kruger0/GMHook) | We really like Discord integration. | 🟡 Semi-Active |
 | [GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) | Another Discord integration. | 🔴 Inactive |
 | [DHook](https://github.com/tabularelf/DHook) | Discord integration. | 🔴 Inactive |
 | [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) | Oops, all Discord integration. | Unknown |
