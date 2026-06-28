@@ -110,7 +110,7 @@ These work on specific platform(s) and enable the games to do something that wou
 | [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) | A template project for building DLLs for GameMaker. | 🔴 Inactive |
 | [Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) | A suite of various extensions. | Unknown |
 | [gameframe](https://github.com/YAL-GameMaker/gameframe) | Custom window caption and border for Windows. | 🔴 Inactive |
-| [GMD3D11](https://github.com/blueburncz/GMD3D11) | A DLL for interfacing with Windows Direct3D. | 🟡 Semi-Active |
+| [GMD3D11](https://github.com/blueburncz/GMD3D11) | A DLL for interfacing with Windows Direct3D. | 🔴 Inactive |
 | [GM Sysinfo](https://github.com/SpikeHD/gm-sysinfo) | Cross-platform extension for getting system information and resource usage. | 🔴 Inactive |
 | [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) | Play videos (Note: Native GMS support now exists). | Unknown |
 | [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) | Webcam capture. | Unknown |
@@ -213,7 +213,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) | Pretty framerate display. | Unknown |
 | [Inspectron](https://github.com/shdwcat/Inspectron) | A fluent API for easily creating GameMaker debug views. | 🔴 Inactive |
 | 💸[GMPulse](https://topherlicious.itch.io/gmpulse) | A runtime inspector and control panel. | Unknown |
-| [Lookout](https://github.com/glebtsereteli/Lookout) | Helpful debug overlay views. | 🟡 Semi-Active |
+| [Lookout](https://github.com/glebtsereteli/Lookout) | Helpful debug overlay views. | 🟢 Active |
 
 ## Input Handling
 
@@ -435,7 +435,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status |
 |---|---|---|
 | [MultiClient](https://github.com/tabularelf/MultiClient) | Non-dll, multiple client launcher for network development. | 🔴 Inactive |
-| [Warp](https://github.com/evolutionleo/Warp) | A feature-rich framework for multiplayer games, written in GameMaker and Node.js. | 🔴 Inactive |
+| [Warp](https://github.com/evolutionleo/Warp) | A feature-rich framework for multiplayer games, written in GameMaker and Node.js. | 🟢 Active |
 | [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) | Host/client implementation with a chat feature. | Unknown |
 | [Patchwire-GM](https://github.com/gm-core/patchwire-gm) | The network library from gm-core if you want to use this implementation without the entire gm-core suite. | 🔴 Inactive |
 | [GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8) | A Gist demonstrating a network handshake. | ⚠️ Dead Link |
