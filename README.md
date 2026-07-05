@@ -450,7 +450,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status |
 |---|---|---|
-| [GMHook](https://github.com/Kruger0/GMHook) | We really like Discord integration. | 🟡 Semi-Active |
+| [GMHook](https://github.com/Kruger0/GMHook) | We really like Discord integration. | 🟢 Active |
 | [GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) | Another Discord integration. | 🔴 Inactive |
 | [DHook](https://github.com/tabularelf/DHook) | Discord integration. | 🔴 Inactive |
 | [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) | Oops, all Discord integration. | Unknown |
