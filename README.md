@@ -202,6 +202,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Inspectron](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
 - [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
 - [Lookout](https://github.com/glebtsereteli/Lookout) - Helpful debug overlay views.
+- [gm-verrific](https://github.com/Alphish/gm-verrific) - The ultimate automated testing framework.
 
 ## Input Handling
 
