@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 - If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 - For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-  - [Aseprite's source code](https://github.com/aseprite/aseprite) can be compiled for free.
+- [Aseprite's source code](https://github.com/aseprite/aseprite) - can be compiled for free.
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 - Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 - Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -111,7 +111,7 @@ These work on specific platform(s) and enable the games to do something that wou
 - [file_dropper](https://yellowafterlife.itch.io/gamemaker-file-dropper) - Accept drag-and-dropping files onto a game window on Windows.
 - [file_dragger](https://github.com/YAL-GameMaker/file_dragger) - Drag-and-drop files *out* of the game window on Windows.
 - [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands) - Dispatch/intercept window controls like Minimize (and other window-related functions).
-- [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) - A way to use JS extensions in GX/WASM games.
+- [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) - A way to use JS extensions in GX/WebAssembly games.
 - [Web Dynamic Textures](https://yellowafterlife.itch.io/gamemaker-web-dyn-textures) - A dynamic texture page loading system for HTML5.
 - [GMWinBackdrop](https://topherlicious.itch.io/gmwinbackdrop) - Windows 11 backdrop materials.
 - [GMSDLL.rs](https://github.com/YAL-GameMaker/GMSDLL.rs?) - Example on how to make native DLL extensions in Rust.
@@ -125,7 +125,7 @@ Custom timers, timelines, and task scheduling.
 - [wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
 - [FrogAlarm](https://github.com/colmeye/FrogAlarms) - Another easy alternative to GameMaker alarms.
 - [fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system.
-- [Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS.
+- [Timer](https://github.com/nommiin/Timers) - Interval-based timing methods modeled after JS's setTimeout and setInterval.
 - [GMTimeLine](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
 - [Agenda](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
 - [GMMT](https://github.com/erkan612/GMMT) - Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control.
@@ -350,8 +350,8 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Xor's Halftone](https://xordev.itch.io/halftone) - A wonderful, versatile halftone shader. Lots of tweakable settings.
 - [Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) - Sampled pixels on a Voronoi diagram.
 - [Fire-Fun](https://github.com/XorDev/Fire-Fun/wiki) - Some fun magic fireballs.
-- [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - Jump Flooding Algorithm for GameMaker made with shaders.
-- [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) - Outline shader.
+- [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - GML implementation of the jump flooding algorithm, using shaders.
+- [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) - Draws outlines around sprites using a shader.
 - [Chameleon](https://github.com/Lojemiru/Chameleon) - Palette Swapper.
 - [Xpanda](https://github.com/GameMakerDiscord/Xpanda) - Include code from external files in your shaders.
 - [Shadertoy to GameMaker](https://github.com/jfkn1ght/Shadertoy2GM) - Convert shadertoy.com shaders to run in GameMaker (GLSL ES).
@@ -372,7 +372,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Penguin](https://dragonite.itch.io/penguin) - 3D model conversion tool.
 - [Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) - Source for a GameMaker 3D game.
 - [sPart](https://marketplace.gamemaker.io/assets/7299/spart-3d-particle-system) - 3D Particle System from TheSnidr.
-- [Terrain Editor](https://dragonite.itch.io/terrain) - Terrain editor. Exports to gm models, obj, or vertex buffers.
+- [Terrain Editor](https://dragonite.itch.io/terrain) - Exports terrain to GM models, obj, or vertex buffers.
 - [Snowy Snow](https://dragonite.itch.io/snowy-snow) - 3D Snow Shader.
 - [Collisions](https://dragonite.itch.io/collisions) - 3D collision system that works with native GML.
 - [Bonk](https://github.com/JujuAdams/Bonk) - Another cool collision library handling a majority of collision shape use-cases.
@@ -414,7 +414,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Parworks](https://github.com/nkrapivin/Parworks) - Additional functionality for the YYG Steamworks extension.
 - [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
 - [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) - Twitch integration.
-- [Github.gml](https://github.com/AlubJ/GitHub.gml) - GitHub REST API
+- [Github.gml](https://github.com/AlubJ/GitHub.gml) - GitHub REST API.
 
 ## Camera
 
@@ -530,7 +530,5 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 ## Contributing
 
 Have something awesome to share? Check out the [Contributing Guidelines](https://github.com/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md).
-
-## GameMaker Keybindings
 
 ![Keybindings](https://github.com/bytecauldron/awesome-gamemaker/raw/main/images/keybindings.png)
