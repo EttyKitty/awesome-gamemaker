@@ -189,11 +189,8 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Debugging
 
 - [rt-shell](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.
-- [Olympus](https://github.com/bscotch/olympus#readme) - Testing Framework.
-- [Crispy](https://github.com/bfrymire/crispy) - Unit testing in GameMaker.
 - [Snitch](https://github.com/JujuAdams/Snitch) - Crash and logging system.
 - [DeerLog](https://mulfok.itch.io/gamemaker-deerlog) - Small log writer.
-- [gms2-test](https://github.com/pmarincak/gms2-test) - Unit testing framework.
 - [Meta](https://github.com/nommiin/meta) - Runtime asset inspector.
 - [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
 - [Duck](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
@@ -202,7 +199,11 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Inspectron](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
 - [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
 - [Lookout](https://github.com/glebtsereteli/Lookout) - Helpful debug overlay views.
+- [Olympus](https://github.com/bscotch/olympus) - Testing Framework.
+- [Ganary](https://github.com/bscotch/ganary) - Uses Olympus to perform regression tests.
 - [gm-verrific](https://github.com/Alphish/gm-verrific) - The ultimate automated testing framework.
+- [gms2-test](https://github.com/pmarincak/gms2-test) - Unit testing framework.
+- [Crispy](https://github.com/bfrymire/crispy) - Unit testing in GameMaker.
 
 ## Input Handling
 
@@ -521,7 +522,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 - This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli with additional links/details.
 - A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
-- If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) or [MagicTools](https://github.com/ellisonleao/magictools#readme).
+- If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) or [MagicTools](https://github.com/ellisonleao/magictools).
 
 *GameMaker® is the property of YoYo Games™. This list is not affiliated with YoYo Games.*
 
