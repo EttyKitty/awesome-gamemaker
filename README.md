@@ -93,6 +93,7 @@ This includes data structures and file formats that do not fit into a more speci
 
 These work on specific platform(s) and enable the games to do something that would be impossible, impractical, or inefficient to do in GML alone. Native extensions related to a specific task (e.g. input handling) can be found in those sections.
 
+- [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) - Official, schema-driven code generator for native extensions.
 - [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
 - [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
 - [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) - A template project for building DLLs for GameMaker.
