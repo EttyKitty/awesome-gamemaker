@@ -119,7 +119,7 @@ These work on specific platform(s) and enable the games to do something that wou
 
 Custom timers, timelines, and task scheduling.
 
-- [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
+- [DoLater](https://github.com/JujuAdams/DoLater) - Deferred code execution improving on the native call_later() function. 
 - [Stopwatch](https://github.com/Lojemiru/Stopwatch) - GameMaker alarm replacement.
 - [wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
 - [FrogAlarm](https://github.com/colmeye/FrogAlarms) - Another easy alternative to GameMaker alarms.
@@ -168,6 +168,7 @@ Custom timers, timelines, and task scheduling.
 - [Figgy](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 - [RenderStack](https://github.com/FoxyOfJungle/RenderStack) - Organize your game's rendering into a customizable order.
 - [GMLiteSearch](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
+- [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 
 ## Tools
 
