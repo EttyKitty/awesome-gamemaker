@@ -267,7 +267,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [polyglot](https://github.com/daikon-games/polyglot) | Localization library. | 🟡 Semi-Active |
 | [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) | Internationalization of texts simply and quickly, using JSON files. | 🔴 Inactive |
 | [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) | Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file. | 🔴 Inactive |
-| [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) | Similar export tool to GMLocalize but exports to a csv. | 🟡 Semi-Active |
+| [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) | Similar export tool to GMLocalize but exports to a csv. | 🔴 Inactive |
 | [gms2-mofile](https://github.com/pmarincak/gms2-mofile) | Mofile reader used for localization. | 🔴 Inactive |
 | 💸[cmnLoc](https://yellowafterlife.itch.io/gamemaker-cmn-loc) | Localization library with a text extractor, short syntax, and ICU/pluralization support. | Unknown |
 | [MythLoco](https://mythloco.co.uk) | A localization system with a web-based strings editor. | Unknown |
