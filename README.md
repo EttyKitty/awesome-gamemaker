@@ -91,7 +91,7 @@ This includes data structures and file formats that do not fit into a more speci
 | [BSONGML](https://github.com/LAGameStudio/BSONGML) | Save and load GML structured data in binary files (BSON). | 🔴 Inactive |
 | [Binder](https://github.com/Homunculus84/Binder) | A binary search library for efficient lookups on large datasets. | 🔴 Inactive |
 | [Airkiver](https://github.com/AlubJ/Airkiver) | Game file archive tool. | 🟡 Semi-Active |
-| [OKColor](https://github.com/KeeVeeGames/OKColor.gml) | An okay color manager for implementing OKLab/OKLCH colors. | 🟡 Semi-Active |
+| [OKColor](https://github.com/KeeVeeGames/OKColor.gml) | An okay color manager for implementing OKLab/OKLCH colors. | 🔴 Inactive |
 | [Exception](https://github.com/KeeVeeGames/Exception.gml) | A base class for custom exceptions. | 🔴 Inactive |
 | [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) | Complete list class with garbage collection and fast sorting. | 🔴 Inactive |
 | [Bit Buffers](https://yellowafterlife.itch.io/gamemaker-bit-buffers) | Read and write buffers with per-bit granularity. | Unknown |
@@ -257,7 +257,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [SimpleUI](https://github.com/evolutionleo/SimpleUI) | Minimalistic UI framework. | 🔴 Inactive |
 | [LimeUI](https://github.com/Limekys/LimeUI) | Flexpanel system for modern, touch-friendly interfaces. | 🟢 Active |
 | [GMUI](https://github.com/erkan612/GMUI) | Immediate mode GameMaker UI library, tons of UI components. | 🟢 Active |
-| [MajorGUI](https://github.com/erkan612/MajorGUI_GML) | Surface-based GUI that allows 100% control over UI styling and functionality. | 🟢 Active |
+| [MajorGUI](https://github.com/erkan612/MajorGUI_GML) | Surface-based GUI that allows 100% control over UI styling and functionality. | 🟡 Semi-Active |
 
 ## Localization
 
@@ -375,7 +375,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [bktGlitch](https://odditica.itch.io/bktglitch) | Glitch shader. | Unknown |
 | [H O R R I - F I](https://gizmo199.itch.io/horri-fi) | VHS Shader. | Unknown |
 | [Depth Sorted Sillouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) | Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android. | Unknown |
-| [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) | Blur Shader with adjustable radius. | 🟡 Semi-Active |
+| [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) | Blur Shader with adjustable radius. | 🔴 Inactive |
 | [Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) | Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase. | 🔴 Inactive |
 | [Dual-Kawase](https://github.com/XorDev/Dual-Kawase/wiki) | Blur Shader that limits radius but is very efficient. | 🔴 Inactive |
 | [Xor's Halftone](https://xordev.itch.io/halftone) | A wonderful, versitile halftone shader. Lots of tweakable settings. | Unknown |
