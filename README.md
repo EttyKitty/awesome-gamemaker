@@ -90,7 +90,7 @@ This includes data structures and file formats that do not fit into a more speci
 | [Cottonwool](https://github.com/JujuAdams/Cottonwool) | Safe surfaces without memory leaks. | 🔴 Inactive |
 | [BSONGML](https://github.com/LAGameStudio/BSONGML) | Save and load GML structured data in binary files (BSON). | 🔴 Inactive |
 | [Binder](https://github.com/Homunculus84/Binder) | A binary search library for efficient lookups on large datasets. | 🔴 Inactive |
-| [Airkiver](https://github.com/AlubJ/Airkiver) | Game file archive tool. | 🟡 Semi-Active |
+| [Airkiver](https://github.com/AlubJ/Airkiver) | Game file archive tool. | 🔴 Inactive |
 | [OKColor](https://github.com/KeeVeeGames/OKColor.gml) | An okay color manager for implementing OKLab/OKLCH colors. | 🔴 Inactive |
 | [Exception](https://github.com/KeeVeeGames/Exception.gml) | A base class for custom exceptions. | 🔴 Inactive |
 | [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) | Complete list class with garbage collection and fast sorting. | 🔴 Inactive |
@@ -293,7 +293,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Collage](https://github.com/tabularelf/Collage) | Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility. | 🟡 Semi-Active |
 | [AESnips](https://github.com/angelwire/AESnips) | A sprite playback system. | 🔴 Inactive |
 | [phgen](https://github.com/squircledev/phgen) | Placeholder asset generation. | 🔴 Inactive |
-| [Disarm](https://github.com/NuxiiGit/disarm) | A spriter skeletal animation at runtime. | 🔴 Inactive |
+| [Disarm](https://github.com/NuxiiGit/disarm) | A spriter skeletal animation at runtime. | 🟢 Active |
 | [Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) | Image correction and cleanup for 2D video game sprites. | 🟢 Active |
 | [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) | Pixel art upscaling shader for awkward resolutions for GameMaker. | 🔴 Inactive |
 | [ASESync](https://sahaun.itch.io/asesync) | Automatically syncs aesprite files in GameMaker. | Unknown |
@@ -313,7 +313,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [audioExt](https://github.com/tabularelf/audioExt) | Sound External Loader/Unloader Manager. | 🔴 Inactive |
 | [ExternalAudio](https://github.com/NuxiiGit/ExternalAudio) | Load external .wav files at runtime. | 🔴 Inactive |
 | [Phonix](https://github.com/Andre-404/Phonix/) | Compact audio system. Great for dynamic music! | 🔴 Inactive |
-| [LineAudio](https://github.com/WangleLine/LineAudio) | Audio helper functions. | 🔴 Inactive |
+| [LineAudio](https://github.com/WangleLine/LineAudio) | Audio helper functions. | 🟢 Active |
 | [Bard](https://github.com/gl326/bard-audio) | An engine for desiging and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects. | 🔴 Inactive |
 | [SynthEngine](https://topherlicious.itch.io/synthengine) | A fully-featured musical synthesizer for GameMaker. | Unknown |
 | [MusicTheoryLib](https://topherlicious.itch.io/musictheorylib) | Convenient music theory utilities for GameMaker. | Unknown |
@@ -458,7 +458,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Parworks](https://github.com/nkrapivin/Parworks) | Additional functionality for the YYG Steamworks extension. | 🔴 Inactive |
 | [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) | A native extension for GOG.com SDK support. | 🔴 Inactive |
 | [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) | Twitch integration. | 🔴 Inactive |
-| [Github.gml](https://github.com/AlubJ/GitHub.gml) | GitHub REST API. | 🟡 Semi-Active |
+| [Github.gml](https://github.com/AlubJ/GitHub.gml) | GitHub REST API. | 🔴 Inactive |
 
 ## Camera
 
