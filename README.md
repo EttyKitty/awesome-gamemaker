@@ -384,7 +384,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) | Jump Flooding Algorithm for GameMaker made with shaders. | Unknown |
 | [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) | Outline shader. | 🔴 Inactive |
 | [Chameleon](https://github.com/Lojemiru/Chameleon) | Palette Swapper. | 🔴 Inactive |
-| [Xpanda](https://github.com/GameMakerDiscord/Xpanda) | Include code from external files in your shaders. | 🟢 Active |
+| [Xpanda](https://github.com/GameMakerDiscord/Xpanda) | Include code from external files in your shaders. | 🟡 Semi-Active |
 | [Shadertoy to GameMaker](https://github.com/jfkn1ght/Shadertoy2GM) | Convert shadertoy.com shaders to run in GameMaker (GLSL ES). | 🟡 Semi-Active |
 | 💸[Lens Distortion FOV](https://foxyofjungle.itch.io/lens-distortion-fov-shader) | Useful FOV depth effect. | Unknown |
 | 💸[Fast Blur Area](https://foxyofjungle.itch.io/foxey-blur-area) | Fast alpha blur shader effect in two lines of code. | Unknown |
