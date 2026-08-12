@@ -173,6 +173,7 @@ Custom timers, timelines, and task scheduling.
 - [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 - [GMVex](https://github.com/erkan612/GMVex) - Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.
 - [RunGML](https://github.com/sdelaughter/RunGML) - A runtime scripting language with a Lisp-like syntax.  Facilitates modding support via included JSON files, and debugging/live coding via an in-game console.
+- [Tweeny](https://github.com/Kruger0/Tweeny) - A fire-and-forget tweening library with support for animation curves and ease functions
 
 ## Tools
 
@@ -261,7 +262,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [gms2-mofile](https://github.com/pmarincak/gms2-mofile) - Mofile reader used for localization.
 - [cmnLoc](https://yellowafterlife.itch.io/gamemaker-cmn-loc) - Localization library with a text extractor, short syntax, and ICU/pluralization support. 💸
 - [MythLoco](https://mythloco.co.uk) - A localization system with a web-based strings editor.
-- [Krug's Localize System](https://krug-dev.itch.io/localize-system-for-gamemaker) - A localization system with real-time Google Sheets API synchronization.
+- [Krug's Localize System](https://github.com/Kruger0/Localize) - A localization system with real-time Google Sheets API synchronization.
 
 ## Physics
 
