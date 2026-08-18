@@ -15,9 +15,24 @@ from typing import Final
 LOG_FORMAT: Final[str] = "%(levelname)s: %(message)s"
 README_PATH: Final[Path] = Path("README.md")
 GITHUB_TOKEN: Final[str | None] = os.getenv("GITHUB_TOKEN")
+GITHUB_GRAPHQL_URL: Final[str] = "https://api.github.com/graphql"
+
+GRAPHQL_QUERY: Final[str] = """
+query($owner: String!, $name: String!) {
+repository(owner: $owner, name: $name) {
+    stargazerCount
+    defaultBranchRef {
+    target {
+        ... on Commit {
+        committedDate
+        }
+    }
+    }
+}
+}
+"""
 
 RATE_LIMIT_STATUS_CODES: Final[set[int]] = {403, 429}
-NOT_FOUND_CODE: Final[int] = 404
 ACTIVE_DAYS: Final[int] = 90
 SEMI_ACTIVE_DAYS: Final[int] = 180
 
@@ -31,7 +46,13 @@ logger = logging.getLogger(__name__)
 
 
 def get_repo_info(repo_url: str) -> tuple[str | None, int | None]:
-    """Fetch the latest commit date and star count from the HEAD (default branch)."""
+    """Fetch the last commit date on the default branch and the star count via GraphQL."""
+    if not GITHUB_TOKEN:
+        logger.critical(
+            "GITHUB_TOKEN is required for the GraphQL API. Set it (e.g. `gh auth token`)."
+        )
+        sys.exit(1)
+
     match = re.search(r"github\.com/([^/]+)/([^/)]+)", repo_url)
     if not match:
         return None, None
@@ -39,23 +60,42 @@ def get_repo_info(repo_url: str) -> tuple[str | None, int | None]:
     owner, repo = match.groups()
     repo = repo.split("/")[0].replace(".git", "")
 
-    api_url = f"https://api.github.com/repos/{owner}/{repo}/commits/HEAD"
-    req = urllib.request.Request(api_url)
-    req.add_header("Accept", "application/vnd.github+json")
-    if GITHUB_TOKEN:
-        req.add_header("Authorization", f"token {GITHUB_TOKEN}")
+    payload = json.dumps(
+        {
+            "query": GRAPHQL_QUERY,
+            "variables": {"owner": owner, "name": repo},
+        }
+    ).encode()
+
+    req = urllib.request.Request(
+        GITHUB_GRAPHQL_URL,
+        data=payload,
+        method="POST",
+        headers={
+            "Authorization": f"Bearer {GITHUB_TOKEN}",
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+        },
+    )
 
     try:
         time.sleep(0.5)
         with urllib.request.urlopen(req, timeout=5) as response:
-            data = json.loads(response.read().decode())
-            return data.get("commit", {}).get("committer", {}).get("date"), data.get("stargazers_count")
+            body = json.loads(response.read().decode())
+            repository = body.get("data", {}).get("repository")
+            if repository is None:
+                return "DEAD", None
+            committed_date = (
+                repository.get("defaultBranchRef", {})
+                .get("target", {})
+                .get("committedDate")
+            )
+            stars = repository.get("stargazerCount")
+            return committed_date, stars
     except urllib.error.HTTPError as e:
         if e.code in RATE_LIMIT_STATUS_CODES:
             logger.critical("Rate limit hit on %s. Terminating.", repo_url)
             sys.exit(1)
-        if e.code == NOT_FOUND_CODE:
-            return "DEAD", None
         logger.error("HTTP Error %s for %s", e.code, repo_url)
     except (urllib.error.URLError, TimeoutError):
         logger.error("Connection error for %s", repo_url)
@@ -110,8 +150,8 @@ def update_readme() -> None:
         prefix, url, _, _ = match.groups()
         logger.info("Processing: %s", url)
 
-        pushed_at, stars = get_repo_info(url)
-        new_status = calculate_status(pushed_at)
+        commit_date, stars = get_repo_info(url)
+        new_status = calculate_status(commit_date)
 
         stars_cell = f"{stars:,}" if stars is not None else "-"
         new_line = f"{prefix} {new_status.strip()} | {stars_cell} |\n"
