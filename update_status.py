@@ -1,4 +1,4 @@
-"""Update repository statuses in a README file based on last commit date."""
+"""Update repository statuses and star counts in a README file."""
 
 import datetime
 import json
@@ -22,7 +22,7 @@ ACTIVE_DAYS: Final[int] = 90
 SEMI_ACTIVE_DAYS: Final[int] = 180
 
 ROW_REGEX: Final[re.Pattern[str]] = re.compile(
-    r"^(\|.*?\[.*?\]\((https?://[^\)]+)\).*?\|.*?\|)(.*?)(\|)",
+    r"^(\|.*?\[.*?\]\((https?://[^\)]+)\).*?\|.*?\|)(.*?)(\|.*)$",
     re.MULTILINE,
 )
 
@@ -30,11 +30,11 @@ logging.basicConfig(level=logging.INFO, format=LOG_FORMAT)
 logger = logging.getLogger(__name__)
 
 
-def get_github_date(repo_url: str) -> str | None:
-    """Fetch the latest commit date from the HEAD (default branch)."""
+def get_repo_info(repo_url: str) -> tuple[str | None, int | None]:
+    """Fetch the latest commit date and star count from the HEAD (default branch)."""
     match = re.search(r"github\.com/([^/]+)/([^/)]+)", repo_url)
     if not match:
-        return None
+        return None, None
 
     owner, repo = match.groups()
     repo = repo.split("/")[0].replace(".git", "")
@@ -49,18 +49,18 @@ def get_github_date(repo_url: str) -> str | None:
         time.sleep(0.5)
         with urllib.request.urlopen(req, timeout=5) as response:
             data = json.loads(response.read().decode())
-            return data.get("commit", {}).get("committer", {}).get("date")
+            return data.get("commit", {}).get("committer", {}).get("date"), data.get("stargazers_count")
     except urllib.error.HTTPError as e:
         if e.code in RATE_LIMIT_STATUS_CODES:
             logger.critical("Rate limit hit on %s. Terminating.", repo_url)
             sys.exit(1)
         if e.code == NOT_FOUND_CODE:
-            return "DEAD"
+            return "DEAD", None
         logger.error("HTTP Error %s for %s", e.code, repo_url)
     except (urllib.error.URLError, TimeoutError):
         logger.error("Connection error for %s", repo_url)
 
-    return None
+    return None, None
 
 
 def calculate_status(date_str: str | None) -> str:
@@ -90,7 +90,7 @@ def calculate_status(date_str: str | None) -> str:
 
 
 def update_readme() -> None:
-    """Parse README, update statuses for all URLs, and save changes."""
+    """Parse README, update statuses and star counts for all URLs, and save changes."""
     if not README_PATH.exists():
         logger.error("%s not found.", README_PATH)
         return
@@ -107,13 +107,14 @@ def update_readme() -> None:
             updated_lines.append(line)
             continue
 
-        prefix, url, _, suffix = match.groups()
+        prefix, url, _, _ = match.groups()
         logger.info("Processing: %s", url)
 
-        last_push = get_github_date(url)
-        new_status = calculate_status(last_push)
+        pushed_at, stars = get_repo_info(url)
+        new_status = calculate_status(pushed_at)
 
-        new_line = f"{prefix} {new_status.strip()} {suffix}\n"
+        stars_cell = f"{stars:,}" if stars is not None else "-"
+        new_line = f"{prefix} {new_status.strip()} | {stars_cell} |\n"
         updated_lines.append(new_line)
         update_count += 1
 
