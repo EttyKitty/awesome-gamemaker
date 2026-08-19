@@ -105,7 +105,7 @@ These work on specific platform(s) and enable the games to do something that wou
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) | Official, schema-driven code generator for native extensions. | Unknown | - |
+| [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) | Official, schema-driven code generator for native extensions. | 🟢 Active | 25 |
 | [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) | Simple compression/decompression functions. | Unknown | - |
 | [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) | Windows only. Flash the game window border and/or its taskbar button. | Unknown | - |
 | [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) | A template project for building DLLs for GameMaker. | 🔴 Inactive | 19 |
@@ -134,7 +134,7 @@ Custom timers, timelines, and task scheduling.
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
 | [Iota](https://github.com/JujuAdams/iota) | Lightweight timestep library. | 🟢 Active | 48 |
-| [DoLater](https://github.com/JujuAdams/DoLater) | Deferred code execution improving on the native call_later() function. | Unknown | - |
+| [DoLater](https://github.com/JujuAdams/DoLater) | Deferred code execution improving on the native call_later() function. | 🟢 Active | 45 |
 | [Stopwatch](https://github.com/Lojemiru/Stopwatch) | GameMaker alarm replacement. | 🔴 Inactive | 4 |
 | [wTimer](https://mors-games.itch.io/wtimer) | Robust alternative for alarms. | Unknown | - |
 | [FrogAlarm](https://github.com/colmeye/FrogAlarms) | Easy alarm system alternative. | 🔴 Inactive | 3 |
@@ -142,16 +142,16 @@ Custom timers, timelines, and task scheduling.
 | [Timer](https://github.com/nommiin/Timers) | Interval-based timing methods modeled after JS's setTimeout and setInterval. | 🔴 Inactive | 3 |
 | [GMTimeLine](https://github.com/TimVN/GMTimeLine) | A pure code alternative to GameMaker timelines. | 🔴 Inactive | 7 |
 | [Agenda](https://github.com/benal20/Agenda.gml) | Schedule and delay the execution of callbacks. | 🔴 Inactive | 4 |
-| [GMMT](https://github.com/erkan612/GMMT) | Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control. | Unknown | - |
-| [STAGING](https://github.com/sdelaughter/STAGING) | Split initialization tasks over multiple frames, including support for asynchronous tasks. | Unknown | - |
+| [GMMT](https://github.com/erkan612/GMMT) | Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control. | 🟢 Active | 8 |
+| [STAGING](https://github.com/sdelaughter/STAGING) | Split initialization tasks over multiple frames, including support for asynchronous tasks. | 🟢 Active | 3 |
 
 ## Async
 
 | [Coroutines](https://github.com/JujuAdams/Coroutines) | Asynchronous functions for GameMaker. | 🔴 Inactive | 84 |
-| [SimThreads](https://github.com/tabularelf/SimThreads) | Simulated threads for GameMaker. | Unknown | - |
+| [SimThreads](https://github.com/tabularelf/SimThreads) | Simulated threads for GameMaker. | 🔴 Inactive | 15 |
 | [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) | Proof of concept for multiprocessing. | 🔴 Inactive | 1 |
 | [Promises](https://github.com/YAL-GameMaker/Promise.gml) | An adaptation of JavaScript Promises. | 🔴 Inactive | 26 |
-| [GML Promise](https://github.com/tinkerer-red/GML-Promise) | Another JS-style promise library. | Unknown | - |
+| [GML Promise](https://github.com/tinkerer-red/GML-Promise) | Another JS-style promise library. | 🔴 Inactive | 9 |
 
 ## Utilities
 
@@ -187,10 +187,10 @@ Custom timers, timelines, and task scheduling.
 | [Figgy](https://github.com/glebtsereteli/Figgy) | Centralized and persistent live configs for seamless game tuning and balancing. | 🟢 Active | 27 |
 | [RenderStack](https://github.com/FoxyOfJungle/RenderStack) | Organize your game's rendering into a customizable order. | 🔴 Inactive | 7 |
 | [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) | Improves Catspeak performance. | 🔴 Inactive | 3 |
-| [GMLiteSearch](https://github.com/erkan612/GMLiteSearch) | Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence. | Unknown | - |
-| [GMVex](https://github.com/erkan612/GMVex) | Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering. | Unknown | - |
-| [RunGML](https://github.com/sdelaughter/RunGML) | A runtime scripting language with a Lisp-like syntax.  Facilitates modding support via included JSON files, and debugging/live coding via an in-game console. | Unknown | - |
-| [Tweeny](https://github.com/Kruger0/Tweeny) | A fire-and-forget tweening library with support for animation curves and ease functions | Unknown | - |
+| [GMLiteSearch](https://github.com/erkan612/GMLiteSearch) | Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence. | 🟢 Active | 14 |
+| [GMVex](https://github.com/erkan612/GMVex) | Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering. | 🟢 Active | 7 |
+| [RunGML](https://github.com/sdelaughter/RunGML) | A runtime scripting language with a Lisp-like syntax.  Facilitates modding support via included JSON files, and debugging/live coding via an in-game console. | 🟢 Active | 10 |
+| [Tweeny](https://github.com/Kruger0/Tweeny) | A fire-and-forget tweening library with support for animation curves and ease functions | 🟢 Active | 8 |
 
 
 ## Tools
@@ -209,7 +209,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Win7 patcher for GM2024.11+](https://yellowafterlife.itch.io/gm2024-win7-patcher) | Makes games made in new GM versions run on Windows 7. | Unknown | - |
 | 💸[RerouteAudio](https://yellowafterlife.itch.io/gamemaker-reroute-audio) | Organizes audio files compiled games into subdirectories. | Unknown | - |
 | [GMLC](https://github.com/tinkerer-red/GMLC) | Runtime compiler and interpreter to load, compile, and execute GML code at runtime. | 🟢 Active | 18 |
-| [GMLVM](https://github.com/erkan612/GMLVM) | An easy to use complete GML interpreter to execute GML at runtime. | Unknown | - |
+| [GMLVM](https://github.com/erkan612/GMLVM) | An easy to use complete GML interpreter to execute GML at runtime. | 🟢 Active | 5 |
 
 ## Debugging
 
@@ -229,15 +229,15 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Inspectron](https://github.com/shdwcat/Inspectron) | A fluent API for easily creating GameMaker debug views. | 🔴 Inactive | 16 |
 | 💸[GMPulse](https://topherlicious.itch.io/gmpulse) | A runtime inspector and control panel. | Unknown | - |
 | [Lookout](https://github.com/glebtsereteli/Lookout) | Helpful debug overlay views. | 🟢 Active | 21 |
-| [Ganary](https://github.com/bscotch/ganary) | Uses Olympus to perform regression tests.  | Unknown | - |
-| [gm-verrific](https://github.com/Alphish/gm-verrific) | The ultimate automated testing framework. | Unknown | - |
+| [Ganary](https://github.com/bscotch/ganary) | Uses Olympus to perform regression tests.  | 🟢 Active | 10 |
+| [gm-verrific](https://github.com/Alphish/gm-verrific) | The ultimate automated testing framework. | 🔴 Inactive | 5 |
 
 ## Input Handling
 
 | Name | Description | Status | Stars |
 |---|---|---|-----|
-| [Input](https://codeberg.org/offalynne/Input) | No nonsense gamepad/keyboard library. | 🔴 Inactive | 311 |
-| [InputTouch](https://github.com/AlubJ/InputTouch) | Touch controls plugin for Input. | Unknown | - |
+| [Input](https://codeberg.org/offalynne/Input) | No nonsense gamepad/keyboard library. | Unknown | - |
+| [InputTouch](https://github.com/AlubJ/InputTouch) | Touch controls plugin for Input. | 🟢 Active | 9 |
 | 💸[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) | System-level custom cursors. | Unknown | - |
 | [InputCandy](https://github.com/LAGameStudio/InputCandy) | Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled. | 🔴 Inactive | 18 |
 | [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) | Another library to handle multiple inputs for a single action. | Unknown | - |
@@ -275,9 +275,9 @@ Things that work with project files or GameMaker itself rather than being someth
 | [LimeUI](https://github.com/Limekys/LimeUI) | Flexpanel system for modern, touch-friendly interfaces. | 🟢 Active | 36 |
 | [GMUI](https://github.com/erkan612/GMUI) | Immediate mode GameMaker UI library, tons of UI components. | 🟢 Active | 31 |
 | [MajorGUI](https://github.com/erkan612/MajorGUI_GML) | Surface-based GUI that allows 100% control over UI styling and functionality. | 🟡 Semi-Active | 10 |
-| [Bento](https://github.com/JujuAdams/Bento) | Cross-platform UI framework. | Unknown | - |
+| [Bento](https://github.com/JujuAdams/Bento) | Cross-platform UI framework. | 🟢 Active | 53 |
 | [InteractiveBooks](https://marketplace.gamemaker.io/assets/4858/now-free-interactive-books) | Highly flexible, interactable books. | Unknown | - |
-| [SimpleBook](https://github.com/Gizmo199/SimpleBook) | Simple book rendering framework. | Unknown | - |
+| [SimpleBook](https://github.com/Gizmo199/SimpleBook) | Simple book rendering framework. | 🟡 Semi-Active | 11 |
 
 ## Localization
 
@@ -291,7 +291,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [gms2-mofile](https://github.com/pmarincak/gms2-mofile) | Mofile reader used for localization. | 🔴 Inactive | 3 |
 | 💸[cmnLoc](https://yellowafterlife.itch.io/gamemaker-cmn-loc) | Localization library with a text extractor, short syntax, and ICU/pluralization support. | Unknown | - |
 | [MythLoco](https://mythloco.co.uk) | A localization system with a web-based strings editor. | Unknown | - |
-| [Krug's Localize System](https://github.com/Kruger0/Localize) | A localization system with real-time Google Sheets API synchronization. | Unknown | - |
+| [Krug's Localize System](https://github.com/Kruger0/Localize) | A localization system with real-time Google Sheets API synchronization. | 🟢 Active | 20 |
 
 ## Physics
 
@@ -305,7 +305,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) | Verlet integration example used for visuals. | 🔴 Inactive | 11 |
 | [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) | Robust object-based collision system from Pixelated Pope. | Unknown | - |
 | 💸[GMPhysX](https://bytecauldron.itch.io/gmphysx) | Adds NVIDIA PhysX to GameMaker for physics-based 2D/3D games. | Unknown | - |
-| [Fracture](https://github.com/GlebTsereteli/Fracture) | Physics-based destruction for procedural Box2D fracture effects. | Unknown | - |
+| [Fracture](https://github.com/GlebTsereteli/Fracture) | Physics-based destruction for procedural Box2D fracture effects. | 🟢 Active | 14 |
 
 ## Sprites
 
@@ -438,9 +438,9 @@ Things that work with project files or GameMaker itself rather than being someth
 | 💸[3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system) | 3D point lights using shaders. | Unknown | - |
 | [glTF parser](https://bitbucket.org/tijit/gltf-parser-for-gamemaker-lts/src/main/) | A model loader with support for animations. | Unknown | - |
 | [Collisions](https://dragonite.itch.io/collisions) | 3D collision system that works with native GML. | Unknown | - |
-| [Bonk](https://github.com/JujuAdams/Bonk) | Another cool collision library handling a majority of collision shape use-cases. | Unknown | - |
+| [Bonk](https://github.com/JujuAdams/Bonk) | Another cool collision library handling a majority of collision shape use-cases. | 🟢 Active | 15 |
 | [DopeFish Respawned](https://lemontoast-games.itch.io/dopefish-respawned) | Extensive WAD manager to load DOOM maps in GameMaker. | Unknown | - |
-| [GMFlux](https://github.com/Fanatrick/GMFlux) | Heightfield fluid simulation solver. | Unknown | - |
+| [GMFlux](https://github.com/Fanatrick/GMFlux) | Heightfield fluid simulation solver. | 🔴 Inactive | 9 |
 
 ## Sprite Stacking
 
@@ -481,7 +481,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Parworks](https://github.com/nkrapivin/Parworks) | Additional functionality for the YYG Steamworks extension. | 🔴 Inactive | 3 |
 | [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) | A native extension for GOG.com SDK support. | 🔴 Inactive | 11 |
 | [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) | Twitch integration. | 🔴 Inactive | 69 |
-| [Github.gml](https://github.com/AlubJ/GitHub.gml) | GitHub REST API. | 🔴 Inactive | 3 |.
+| [Github.gml](https://github.com/AlubJ/GitHub.gml) | GitHub REST API. | 🔴 Inactive | 3 |
 
 ## Camera
 
