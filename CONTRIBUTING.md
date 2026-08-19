@@ -7,7 +7,7 @@ Thank you for showing interest in contributing to this list! Before submitting n
 - New links **need to be related to the latest GameMaker version in some reasonable way.** This includes compatible libraries, guides, blog posts, etc.
 - Avoid GMS1-exclusive (or pre-2.3) content.
 - Avoid asset packs for sprites and audio. Typically, most assets are GameMaker-agnostic and do not need to be on this list.
-- For extensions or GameMaker projects, please link an official Itch.io or repository (Github/Gitlab/etc). (For example, avoid project dumps on Google Drive that have zero version control.)
+- For extensions or GameMaker projects, please link an official Itch.io or repository (GitHub/GitLab/etc). (For example, avoid project dumps on Google Drive that have zero version control.)
 - Make sure it isn't already on the list.
 - [Optional] If you are releasing an library/extension, It's recommend to build an importable `.yymps` file and keep everything in one folder if possible.
 - Provide a succinct description for each linked resource.
@@ -37,3 +37,7 @@ Authors can also ask for the removal of their content, if requested. Suggestions
 ## Additional Feedback
 
 If you have a better way to organize the list information or other ideas, please share them by opening up a new issue.
+
+## Regarding AI Submissions
+
+Due to the rise of agents, I'm not interested in the vibecoded SaaS product you made a few days ago on the topic of game design. It's disrespectful to my time (a human maintainer) to review an theoretically unlimited amount of low-quality, AI-generated resources. These pull requests are often self-evident and will be treated as spam.
