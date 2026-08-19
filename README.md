@@ -19,6 +19,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Utilities](#utilities)
 - [Tools](#tools)
 - [Debugging](#debugging)
+- [Tests](#tests)
+- [Formatting and Linting](#formatting-and-linting)
 - [Input Handling](#input-handling)
 - [User Interface](#user-interface)
 - [Localization](#localization)
@@ -214,22 +216,32 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [Duck](https://github.com/imlazyeye/duck) | A fast GML analyzer to enforce code styling and detect errors. | 🔴 Inactive | 14 |
-| [Gobo](https://github.com/Pizzaandy/Gobo/) | An opinionated code formatter for GML. | 🔴 Inactive | 33 |
-| [Gobo (EttyKitty fork)](https://github.com/EttyKitty/Gobo/) | A bit less opinionated code formatter for GML, with more options and functionality. | 🟢 Active | 0 |
 | [Snitch](https://github.com/JujuAdams/Snitch) | Crash and logging system. | 🟢 Active | 39 |
 | [rt-shell](https://github.com/daikon-games/rt-shell) | Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc. | 🔴 Inactive | 96 |
-| [Olympus](https://github.com/bscotch/olympus#readme) | Testing Framework. | ⚠️ Dead Link | - |
-| [Crispy](https://github.com/bfrymire/crispy) | Unit testing in GameMaker. | 🔴 Inactive | 40 |
 | [DeerLog](https://mulfok.itch.io/gamemaker-deerlog) | Small log writer. | Unknown | - |
-| [gms2-test](https://github.com/pmarincak/gms2-test) | Unit testing framework. | 🔴 Inactive | 28 |
 | [Meta](https://github.com/nommiin/meta) | Runtime asset inspector. | 🔴 Inactive | 8 |
 | [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) | Pretty framerate display. | Unknown | - |
 | [Inspectron](https://github.com/shdwcat/Inspectron) | A fluent API for easily creating GameMaker debug views. | 🔴 Inactive | 16 |
 | 💸[GMPulse](https://topherlicious.itch.io/gmpulse) | A runtime inspector and control panel. | Unknown | - |
 | [Lookout](https://github.com/glebtsereteli/Lookout) | Helpful debug overlay views. | 🟢 Active | 21 |
+
+## Tests
+
+| Name | Description | Status | Stars |
+|------|-------------|--------|-------|
+| [Olympus](https://github.com/bscotch/olympus) | Testing Framework. | ⚠️ Dead Link | - |
+| [Crispy](https://github.com/bfrymire/crispy) | Unit testing in GameMaker. | 🔴 Inactive | 40 |
+| [gms2-test](https://github.com/pmarincak/gms2-test) | Unit testing framework. | 🔴 Inactive | 28 |
 | [Ganary](https://github.com/bscotch/ganary) | Uses Olympus to perform regression tests. | 🟢 Active | 10 |
 | [gm-verrific](https://github.com/Alphish/gm-verrific) | The ultimate automated testing framework. | 🔴 Inactive | 5 |
+
+## Formatting and Linting
+
+| Name | Description | Status | Stars |
+|------|-------------|--------|-------|
+| [Duck](https://github.com/imlazyeye/duck) | A fast GML analyzer to enforce code styling and detect errors. | 🔴 Inactive | 14 |
+| [Gobo](https://github.com/Pizzaandy/Gobo/) | An opinionated code formatter for GML. | 🔴 Inactive | 33 |
+| [Gobo (EttyKitty fork)](https://github.com/EttyKitty/Gobo/) | A bit less opinionated code formatter for GML, with more options and functionality. | 🟢 Active | 0 |
 
 ## Input Handling
 
