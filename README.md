@@ -161,7 +161,7 @@ Custom timers, timelines, and task scheduling.
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [Canvas](https://github.com/tabularelf/Canvas) | Another great solution for surface management. | 🟡 Semi-Active | 22 |
+| [Canvas](https://github.com/tabularelf/Canvas) | Another great solution for surface management. | 🔴 Inactive | 22 |
 | 💸[GMLive](https://yellowafterlife.itch.io/gamemaker-live) | Livecoding / interactive programming. | Unknown | - |
 | [Catspeak](https://github.com/katsaii/catspeak-lang) | Cross-platform programming language for modding support. | 🟢 Active | 133 |
 | [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) | A tool to benchmark GML code. | 🟢 Active | 34 |
@@ -210,7 +210,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Win7 patcher for GM2024.11+](https://yellowafterlife.itch.io/gm2024-win7-patcher) | Makes games made in new GM versions run on Windows 7. | Unknown | - |
 | 💸[RerouteAudio](https://yellowafterlife.itch.io/gamemaker-reroute-audio) | Organizes audio files compiled games into subdirectories. | Unknown | - |
 | [GMLC](https://github.com/tinkerer-red/GMLC) | Runtime compiler and interpreter to load, compile, and execute GML code at runtime. | 🟢 Active | 18 |
-| [GMLVM](https://github.com/erkan612/GMLVM) | An easy to use complete GML interpreter to execute GML at runtime. | 🟢 Active | 5 |
+| [GMLVM](https://github.com/erkan612/GMLVM) | An easy to use complete GML interpreter to execute GML at runtime. | 🟡 Semi-Active | 5 |
 
 ## Debugging
 
@@ -229,7 +229,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [Olympus](https://github.com/bscotch/olympus) | Testing Framework. | ⚠️ Dead Link | - |
+| [Olympus](https://github.com/bscotch/olympus) | Testing Framework. | 🔴 Inactive | 21 |
 | [Crispy](https://github.com/bfrymire/crispy) | Unit testing in GameMaker. | 🔴 Inactive | 40 |
 | [gms2-test](https://github.com/pmarincak/gms2-test) | Unit testing framework. | 🔴 Inactive | 28 |
 | [Ganary](https://github.com/bscotch/ganary) | Uses Olympus to perform regression tests. | 🟢 Active | 10 |
@@ -270,7 +270,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [gooey](https://manta-ray.itch.io/gooey) | Sprite-based UI Library for GameMaker LTS. | Unknown | - |
 | [Chatterbox](https://github.com/JujuAdams/chatterbox) | Narrative scripting tool. | 🟢 Active | 174 |
 | [Scripture](https://pixelatedpope.itch.io/scripture) | Another easy to use, highly compatible text renderer. | Unknown | - |
-| [Textboxy](https://github.com/glitchroy/textboxy) | Simple textboxes. | 🔴 Inactive | 65 |
+| [Textboxy](https://github.com/glitchroy/textboxy) | Simple textboxes. | 🔴 Inactive | 64 |
 | [Crochet](https://github.com/FaultyFunctions/Crochet) | An interactive dialogue editor for writers and programmers. | 🟢 Active | 119 |
 | [NotificationSystem](https://github.com/babaganosch/NotificationSystem) | Notifications in GameMaker. | 🔴 Inactive | 44 |
 | [Guido](https://github.com/JujuAdams/Guido) | Simple immediate mode GUI framework. | 🔴 Inactive | 24 |
@@ -322,16 +322,16 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [Collage](https://github.com/tabularelf/Collage) | Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility. | 🟡 Semi-Active | 29 |
+| [Collage](https://github.com/tabularelf/Collage) | Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility. | 🔴 Inactive | 29 |
 | [AESnips](https://github.com/angelwire/AESnips) | A sprite playback system. | 🔴 Inactive | 9 |
 | [phgen](https://github.com/squircledev/phgen) | Placeholder asset generation. | 🔴 Inactive | 3 |
 | [Disarm](https://github.com/NuxiiGit/disarm) | A spriter skeletal animation at runtime. | ⚠️ Dead Link | - |
-| [Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) | Image correction and cleanup for 2D video game sprites. | 🟢 Active | 159 |
+| [Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) | Image correction and cleanup for 2D video game sprites. | 🟢 Active | 158 |
 | [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) | Pixel art upscaling shader for awkward resolutions for GameMaker. | 🔴 Inactive | 36 |
 | [ASESync](https://sahaun.itch.io/asesync) | Automatically syncs aseprite files in GameMaker. | Unknown | - |
 | [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) | Similar to ASESync. Export Aseprite files to GameMaker sprites. | 🔴 Inactive | 7 |
 | [GM Animate](https://github.com/KormexGit/GM-Animate) | Sprite animation manager. | 🟢 Active | 9 |
-| [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) | Utilities for creating art asset pipelines. | 🟢 Active | 159 |
+| [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) | Utilities for creating art asset pipelines. | 🟢 Active | 158 |
 
 ## Audio
 
@@ -407,7 +407,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [H O R R I - F I](https://gizmo199.itch.io/horri-fi) | VHS Shader. | Unknown | - |
 | [Depth Sorted Silhouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) | Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android. | Unknown | - |
 | [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) | Blur Shader with adjustable radius. | 🔴 Inactive | 15 |
-| [Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) | Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase. | 🔴 Inactive | 19 |
+| [Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) | Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase. | Unknown | - |
 | [Dual-Kawase](https://github.com/XorDev/Dual-Kawase/wiki) | Blur Shader that limits radius but is very efficient. | 🔴 Inactive | 11 |
 | [Xor's Halftone](https://xordev.itch.io/halftone) | A wonderful, versatile halftone shader. Lots of tweakable settings. | Unknown | - |
 | [Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) | Sampled pixels on a Voronoi diagram. | 🔴 Inactive | 13 |
@@ -431,9 +431,9 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [BBMOD](https://github.com/blueburn-cz/BBMOD) | 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more. | 🟢 Active | 118 |
+| [BBMOD](https://github.com/blueburn-cz/BBMOD) | 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more. | 🟢 Active | 119 |
 | [ColMesh](https://forum.gamemaker.io/index.php?threads/colmesh-3d-collisions-made-easy.82765/) | 3D Collision Library from TheSnidr. | Unknown | - |
-| [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) | Import/Export tools to load vertex buffer data out of Blender and into GMS. | 🟡 Semi-Active | 44 |
+| [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) | Import/Export tools to load vertex buffer data out of Blender and into GMS. | 🟢 Active | 43 |
 | [Penguin](https://dragonite.itch.io/penguin) | 3D model conversion tool. | Unknown | - |
 | [3D-2D](https://github.com/YoYoGames/3D-2D) | Official tool to turn 3D models into 2D sprites. | 🔴 Inactive | 48 |
 | [BSP 4 GMS](https://cdlegasse.itch.io/ozarq-bsp-4-gms) | Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on. | Unknown | - |
@@ -502,7 +502,7 @@ Things that work with project files or GameMaker itself rather than being someth
 |------|-------------|--------|-------|
 | [Pixel Perfect Smooth Camera](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) | An example of pixel-perfect yet smooth camera. | 🔴 Inactive | 38 |
 | [Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) | Local multiplayer split screen implementation that merges the camera when players are close. | Unknown | - |
-| [STANNcam](https://github.com/jack27121/STANNcam) | Camera and resolution manager. | 🔴 Inactive | 43 |
+| [STANNcam](https://github.com/jack27121/STANNcam) | Camera and resolution manager. | 🟢 Active | 43 |
 | [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera) | Editor, screenshake, view-resizing, follow modes, screen effects, etc. | Unknown | - |
 | 💸[REZOL](https://foxyofjungle.itch.io/rezol) | Complete resolution & screen manager (with split-screen support). | Unknown | - |
 
