@@ -81,7 +81,7 @@ This includes data structures and file formats that do not fit into a more speci
 | [GML-OOP](https://github.com/Mtax-Development/GML-OOP) | A constructor library for operating the primary functionalities of GameMaker. | 🟢 Active | 34 |
 | [GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) | Another project that adds OOP functionality to GameMaker. | 🔴 Inactive | 18 |
 | [Destructors](https://github.com/DatZach/Destructors) | Allows you to use ds_ types such as lists and maps inside of structs. | 🔴 Inactive | 26 |
-| [SNAP](https://github.com/JujuAdams/SNAP) | Easy data format saving and loading (CSV, INI, XML, etc). | 🟡 Semi-Active | 100 |
+| [SNAP](https://github.com/JujuAdams/SNAP) | Easy data format saving and loading (CSV, INI, XML, etc). | 🟡 Semi-Active | 99 |
 | [LWO](https://github.com/tabularelf/lwo) | Lightweight objects using structs. | 🔴 Inactive | 9 |
 | [Lock And Key](https://github.com/AlubJ/Lock-And-Key) | String and file encryption. | 🔴 Inactive | 10 |
 | [Map](https://github.com/GameMakerDiscord/Map.gml) | Hash table implementations. | 🔴 Inactive | 3 |
@@ -107,7 +107,7 @@ These work on specific platform(s) and enable the games to do something that wou
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) | Official, schema-driven code generator for native extensions. | 🟢 Active | 27 |
+| [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) | Official, schema-driven code generator for native extensions. | 🟢 Active | 28 |
 | [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) | Simple compression/decompression functions. | Unknown | - |
 | [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) | Windows only. Flash the game window border and/or its taskbar button. | Unknown | - |
 | [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) | A template project for building DLLs for GameMaker. | 🔴 Inactive | 19 |
@@ -144,7 +144,7 @@ Custom timers, timelines, and task scheduling.
 | [Timer](https://github.com/nommiin/Timers) | Interval-based timing methods modeled after JS's setTimeout and setInterval. | 🔴 Inactive | 3 |
 | [GMTimeLine](https://github.com/TimVN/GMTimeLine) | A pure code alternative to GameMaker timelines. | 🔴 Inactive | 7 |
 | [Agenda](https://github.com/benal20/Agenda.gml) | Schedule and delay the execution of callbacks. | 🔴 Inactive | 4 |
-| [GMMT](https://github.com/erkan612/GMMT) | Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control. | 🟢 Active | 8 |
+| [GMMT](https://github.com/erkan612/GMMT) | Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control. | 🟢 Active | 10 |
 | [STAGING](https://github.com/sdelaughter/STAGING) | Split initialization tasks over multiple frames, including support for asynchronous tasks. | 🟢 Active | 3 |
 
 ## Async
@@ -163,7 +163,7 @@ Custom timers, timelines, and task scheduling.
 |------|-------------|--------|-------|
 | [Canvas](https://github.com/tabularelf/Canvas) | Another great solution for surface management. | 🔴 Inactive | 22 |
 | 💸[GMLive](https://yellowafterlife.itch.io/gamemaker-live) | Livecoding / interactive programming. | Unknown | - |
-| [Catspeak](https://github.com/katsaii/catspeak-lang) | Cross-platform programming language for modding support. | 🟢 Active | 135 |
+| [Catspeak](https://github.com/katsaii/catspeak-lang) | Cross-platform programming language for modding support. | 🟢 Active | 136 |
 | [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) | A tool to benchmark GML code. | 🟢 Active | 34 |
 | [gm-core](https://github.com/gm-core) | Foundational utility suite for networking, testing, and QoL. | Unknown | - |
 | [FAST](https://github.com/Hyomoto/FAST) | Flexible Assistant Toolkit for input and resolution handling. | 🔴 Inactive | 31 |
@@ -189,7 +189,7 @@ Custom timers, timelines, and task scheduling.
 | [Figgy](https://github.com/glebtsereteli/Figgy) | Centralized and persistent live configs for seamless game tuning and balancing. | 🟢 Active | 27 |
 | [RenderStack](https://github.com/FoxyOfJungle/RenderStack) | Organize your game's rendering into a customizable order. | 🔴 Inactive | 7 |
 | [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) | Improves Catspeak performance. | 🔴 Inactive | 3 |
-| [GMLiteSearch](https://github.com/erkan612/GMLiteSearch) | Fast, flexible full-text search for GameMaker. Built for small to medium datasets (10k-50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence. | 🟢 Active | 14 |
+| [GMLiteSearch](https://github.com/erkan612/GMLiteSearch) | Fast, flexible full-text search for GameMaker. Built for small to medium datasets (10k-50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence. | 🟢 Active | 15 |
 | [GMVex](https://github.com/erkan612/GMVex) | Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering. | 🟢 Active | 7 |
 | [RunGML](https://github.com/sdelaughter/RunGML) | A runtime scripting language with a Lisp-like syntax. Facilitates modding support via included JSON files, and debugging/live coding via an in-game console. | 🟢 Active | 10 |
 | [Tweeny](https://github.com/Kruger0/Tweeny) | A fire-and-forget tweening library with support for animation curves and ease functions | 🟢 Active | 9 |
@@ -201,7 +201,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
 | [Stitch for VSCode](https://marketplace.visualstudio.com/items?itemName=bscotch.bscotch-stitch-vscode) | Edit GameMaker projects in VSCode. | Unknown | - |
-| [GMEdit](https://github.com/YellowAfterlife/GMEdit) | Code editor to use in conjunction with GameMaker. | 🟢 Active | 369 |
+| [GMEdit](https://github.com/YellowAfterlife/GMEdit) | Code editor to use in conjunction with GameMaker. | 🟢 Active | 368 |
 | [YYP Maker](https://sahaun.itch.io/yyp-maker) | Makes `.yyp` files for you. | Unknown | - |
 | [Rubber](https://github.com/GameMakerDiscord/Rubber) | Compile GameMaker projects via the command line. | 🔴 Inactive | 32 |
 | [GMSnip](https://manta-ray.itch.io/gmsnip) | Experimental tool to define unlimited code snippets in the IDE. | Unknown | - |
@@ -231,7 +231,7 @@ Things that work with project files or GameMaker itself rather than being someth
 |------|-------------|--------|-------|
 | [Olympus](https://github.com/bscotch/olympus) | Testing Framework. | 🔴 Inactive | 21 |
 | [Crispy](https://github.com/bfrymire/crispy) | Unit testing in GameMaker. | 🔴 Inactive | 41 |
-| [gms2-test](https://github.com/pmarincak/gms2-test) | Unit testing framework. | 🔴 Inactive | 28 |
+| [gms2-test](https://github.com/pmarincak/gms2-test) | Unit testing framework. | 🔴 Inactive | 29 |
 | [Ganary](https://github.com/bscotch/ganary) | Uses Olympus to perform regression tests. | 🟢 Active | 10 |
 | [gm-verrific](https://github.com/Alphish/gm-verrific) | The ultimate automated testing framework. | 🔴 Inactive | 5 |
 
@@ -284,7 +284,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [zitk](https://github.com/TandyRum1024/zitk) | Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on. | 🔴 Inactive | 6 |
 | [SimpleUI](https://github.com/evolutionleo/SimpleUI) | Minimalistic UI framework. | 🔴 Inactive | 9 |
 | [LimeUI](https://github.com/Limekys/LimeUI) | Flexpanel system for modern, touch-friendly interfaces. | 🟢 Active | 36 |
-| [GMUI](https://github.com/erkan612/GMUI) | Immediate mode GameMaker UI library, tons of UI components. | 🟢 Active | 30 |
+| [GMUI](https://github.com/erkan612/GMUI) | Immediate mode GameMaker UI library, tons of UI components. | 🟢 Active | 32 |
 | [MajorGUI](https://github.com/erkan612/MajorGUI_GML) | Surface-based GUI that allows 100% control over UI styling and functionality. | 🟡 Semi-Active | 9 |
 | [Bento](https://github.com/JujuAdams/Bento) | Cross-platform UI framework. | 🟢 Active | 55 |
 | [InteractiveBooks](https://marketplace.gamemaker.io/assets/4858/now-free-interactive-books) | Highly flexible, interactable books. | Unknown | - |
@@ -337,7 +337,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) | Official support for FMOD in GameMaker. | 🟢 Active | 74 |
+| [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) | Official support for FMOD in GameMaker. | 🟢 Active | 73 |
 | [Vinyl](https://github.com/JujuAdams/Vinyl) | Live updating audio system. | 🟡 Semi-Active | 61 |
 | [FML](https://github.com/Nikkilae/fml) | GameMaker bindings for the FMOD Studio API. | 🔴 Inactive | 7 |
 | 💸[Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) | Optimized delay effect. | Unknown | - |
@@ -361,7 +361,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
 | [LDtkParser](https://github.com/evolutionleo/LDtkParser) | Advanced LDtk Importer. | 🔴 Inactive | 63 |
-| [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) | Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation. | 🟢 Active | 133 |
+| [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) | Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation. | 🟢 Active | 134 |
 | [LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) | LDtk Importer. | Unknown | - |
 | [Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) | Collects room data and stores it into a JSON for later use. | 🔴 Inactive | 10 |
 | [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) | Combines user-defined chambers to create a dungeon. | 🔴 Inactive | 10 |
@@ -406,7 +406,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [bktGlitch](https://odditica.itch.io/bktglitch) | Glitch shader. | Unknown | - |
 | [H O R R I - F I](https://gizmo199.itch.io/horri-fi) | VHS Shader. | Unknown | - |
 | [Depth Sorted Silhouettes](https://pixelatedpope.itch.io/depth-sorted-silhouette-example) | Example project to demonstrate shader-based depth sorting sillouettes. Tested on PC, Mac, HTML5, and Android. | Unknown | - |
-| [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) | Blur Shader with adjustable radius. | 🔴 Inactive | 15 |
+| [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) | Blur Shader with adjustable radius. | 🔴 Inactive | 16 |
 | [Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) | Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase. | 🔴 Inactive | 20 |
 | [Dual-Kawase](https://github.com/XorDev/Dual-Kawase/wiki) | Blur Shader that limits radius but is very efficient. | 🔴 Inactive | 11 |
 | [Xor's Halftone](https://xordev.itch.io/halftone) | A wonderful, versatile halftone shader. Lots of tweakable settings. | Unknown | - |
@@ -467,7 +467,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [MultiClient](https://github.com/tabularelf/MultiClient) | Non-dll, multiple client launcher for network development. | 🔴 Inactive | 31 |
+| [MultiClient](https://github.com/tabularelf/MultiClient) | Non-dll, multiple client launcher for network development. | 🔴 Inactive | 30 |
 | [Warp](https://github.com/evolutionleo/Warp) | A feature-rich framework for multiplayer games, written in GameMaker and Node.js. | 🟢 Active | 149 |
 | [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) | Host/client implementation with a chat feature. | Unknown | - |
 | [Patchwire-GM](https://github.com/gm-core/patchwire-gm) | The network library from gm-core if you want to use this implementation without the entire gm-core suite. | 🔴 Inactive | 36 |
@@ -485,7 +485,7 @@ Things that work with project files or GameMaker itself rather than being someth
 |------|-------------|--------|-------|
 | [GMHook](https://github.com/Kruger0/GMHook) | We really like Discord integration. | 🟢 Active | 11 |
 | [GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) | Another Discord integration. | 🔴 Inactive | 11 |
-| [DHook](https://github.com/tabularelf/DHook) | Discord integration. | 🔴 Inactive | 6 |
+| [DHook](https://github.com/tabularelf/DHook) | Discord integration. | 🔴 Inactive | 5 |
 | [NekoPresence](https://marketplace.gamemaker.io/assets/9526/nekopresence) | Oops, all Discord integration. | Unknown | - |
 | [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) | Various expansions to Steamworks SDK support in GameMaker: Studio. | 🟢 Active | 89 |
 | [Parworks](https://github.com/nkrapivin/Parworks) | Additional functionality for the YYG Steamworks extension. | 🔴 Inactive | 3 |
