@@ -87,15 +87,15 @@ This includes data structures and file formats that do not fit into a more speci
 | [Map](https://github.com/GameMakerDiscord/Map.gml) | Hash table implementations. | 🔴 Inactive | 3 |
 | [Matrices](https://github.com/JujuAdams/matrices) | A collection of matrix handling scripts. | 🔴 Inactive | 7 |
 | [gm-stream](https://github.com/daikon-games/gm-stream) | Data structure manipulation. | 🔴 Inactive | 8 |
-| [ForEach](https://github.com/KeeVeeGames/foreach.gml) | Adds a foreach implementation for various data structures and structs. | 🔴 Inactive | 26 |
-| [DeepCopy](https://github.com/KeeVeeGames/DeepCopy.gml) | Deep clone class instances, structs, and arrays nested in any order. | 🔴 Inactive | 12 |
+| [ForEach](https://github.com/KeeVeeGames/foreach.gml) | Adds a foreach implementation for various data structures and structs. | 🟢 Active | 26 |
+| [DeepCopy](https://github.com/KeeVeeGames/DeepCopy.gml) | Deep clone class instances, structs, and arrays nested in any order. | 🟢 Active | 12 |
 | [Cottonwool](https://github.com/JujuAdams/Cottonwool) | Safe surfaces without memory leaks. | 🔴 Inactive | 14 |
 | [BSONGML](https://github.com/LAGameStudio/BSONGML) | Save and load GML structured data in binary files (BSON). | 🔴 Inactive | 6 |
 | [Binder](https://github.com/Homunculus84/Binder) | A binary search library for efficient lookups on large datasets. | 🔴 Inactive | 6 |
 | [Airkiver](https://github.com/AlubJ/Airkiver) | Game file archive tool. | 🔴 Inactive | 1 |
 | [OKColor](https://github.com/KeeVeeGames/OKColor.gml) | An okay color manager for implementing OKLab/OKLCH colors. | 🟢 Active | 56 |
-| [Exception](https://github.com/KeeVeeGames/Exception.gml) | A base class for custom exceptions. | 🔴 Inactive | 17 |
-| [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) | Complete list class with garbage collection and fast sorting. | 🔴 Inactive | 19 |
+| [Exception](https://github.com/KeeVeeGames/Exception.gml) | A base class for custom exceptions. | 🟢 Active | 17 |
+| [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) | Complete list class with garbage collection and fast sorting. | 🟢 Active | 19 |
 | [Bit Buffers](https://yellowafterlife.itch.io/gamemaker-bit-buffers) | Read and write buffers with per-bit granularity. | Unknown | - |
 | [sprite_add_gif](https://yellowafterlife.itch.io/gamemaker-sprite-add-gif) | Dynamically load animated GIFs as sprites. | Unknown | - |
 | 💸[Managix](https://foxyofjungle.itch.io/managix) | Async memory & resources manager (texture/audio groups). | Unknown | - |
@@ -107,7 +107,7 @@ These work on specific platform(s) and enable the games to do something that wou
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) | Official, schema-driven code generator for native extensions. | 🟢 Active | 28 |
+| [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) | Official, schema-driven code generator for native extensions. | 🟢 Active | 27 |
 | [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) | Simple compression/decompression functions. | Unknown | - |
 | [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) | Windows only. Flash the game window border and/or its taskbar button. | Unknown | - |
 | [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) | A template project for building DLLs for GameMaker. | 🔴 Inactive | 19 |
@@ -123,7 +123,7 @@ These work on specific platform(s) and enable the games to do something that wou
 | 💸[winMenu](https://yellowafterlife.itch.io/gamemaker-winmenu) | Native menus on Windows. | Unknown | - |
 | [window_set_icon](https://yellowafterlife.itch.io/window-set-icon) | Change window and/or taskbar icons on Windows. | Unknown | - |
 | [file_dropper](https://yellowafterlife.itch.io/gamemaker-file-dropper) | Accept drag-and-dropping files onto a game window on Windows. | Unknown | - |
-| [file_dragger](https://github.com/YAL-GameMaker/file_dragger) | Drag-and-drop files *out* of the game window on Windows. | 🔴 Inactive | 5 |
+| [file_dragger](https://github.com/YAL-GameMaker/file_dragger) | Drag-and-drop files *out* of the game window on Windows. | 🔴 Inactive | 6 |
 | [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands) | Dispatch/intercept window controls like Minimize. | Unknown | - |
 | [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) | A way to use JS extensions in GX/WebAssembly games. | 🔴 Inactive | 16 |
 | [Web Dynamic Textures](https://yellowafterlife.itch.io/gamemaker-web-dyn-textures) | A dynamic texture page loading system for HTML5. | Unknown | - |
@@ -191,7 +191,7 @@ Custom timers, timelines, and task scheduling.
 | [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) | Improves Catspeak performance. | 🔴 Inactive | 3 |
 | [GMLiteSearch](https://github.com/erkan612/GMLiteSearch) | Fast, flexible full-text search for GameMaker. Built for small to medium datasets (10k-50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence. | 🟢 Active | 15 |
 | [GMVex](https://github.com/erkan612/GMVex) | Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering. | 🟢 Active | 7 |
-| [RunGML](https://github.com/sdelaughter/RunGML) | A runtime scripting language with a Lisp-like syntax. Facilitates modding support via included JSON files, and debugging/live coding via an in-game console. | 🟢 Active | 10 |
+| [RunGML](https://github.com/sdelaughter/RunGML) | A runtime scripting language with a Lisp-like syntax. Facilitates modding support via included JSON files, and debugging/live coding via an in-game console. | 🟡 Semi-Active | 10 |
 | [Tweeny](https://github.com/Kruger0/Tweeny) | A fire-and-forget tweening library with support for animation curves and ease functions | 🟢 Active | 9 |
 
 ## Tools
@@ -248,7 +248,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
 | [Input](https://codeberg.org/offalynne/Input) | No nonsense gamepad/keyboard library. | Unknown | - |
-| [InputTouch](https://github.com/AlubJ/InputTouch) | Touch controls plugin for Input. | 🟢 Active | 9 |
+| [InputTouch](https://github.com/AlubJ/InputTouch) | Touch controls plugin for Input. | 🟡 Semi-Active | 9 |
 | 💸[Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) | System-level custom cursors. | Unknown | - |
 | [InputCandy](https://github.com/LAGameStudio/InputCandy) | Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled. | 🔴 Inactive | 18 |
 | [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) | Another library to handle multiple inputs for a single action. | Unknown | - |
@@ -264,7 +264,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [Scribble](https://github.com/JujuAdams/scribble) | Efficient multi-effects text renderer. | 🔴 Inactive | 417 |
+| [Scribble](https://github.com/JujuAdams/scribble) | Efficient multi-effects text renderer. | 🔴 Inactive | 418 |
 | [YUI](https://github.com/shdwcat/YUI) | A UI system with live reloading, template system, data binding, and a drag and drop feature. | 🔴 Inactive | 64 |
 | [Emu UI](https://github.com/DragoniteSpam/Emu) | Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc). | 🔴 Inactive | 44 |
 | [gooey](https://manta-ray.itch.io/gooey) | Sprite-based UI Library for GameMaker LTS. | Unknown | - |
@@ -360,7 +360,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [LDtkParser](https://github.com/evolutionleo/LDtkParser) | Advanced LDtk Importer. | 🔴 Inactive | 63 |
+| [LDtkParser](https://github.com/evolutionleo/LDtkParser) | Advanced LDtk Importer. | 🔴 Inactive | 64 |
 | [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) | Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation. | 🟢 Active | 134 |
 | [LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) | LDtk Importer. | Unknown | - |
 | [Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) | Collects room data and stores it into a JSON for later use. | 🔴 Inactive | 10 |
@@ -483,11 +483,11 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [GMHook](https://github.com/Kruger0/GMHook) | We really like Discord integration. | 🟢 Active | 11 |
+| [GMHook](https://github.com/Kruger0/GMHook) | We really like Discord integration. | 🟡 Semi-Active | 11 |
 | [GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) | Another Discord integration. | 🔴 Inactive | 11 |
 | [DHook](https://github.com/tabularelf/DHook) | Discord integration. | 🔴 Inactive | 5 |
 | [NekoPresence](https://marketplace.gamemaker.io/assets/9526/nekopresence) | Oops, all Discord integration. | Unknown | - |
-| [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) | Various expansions to Steamworks SDK support in GameMaker: Studio. | 🟢 Active | 89 |
+| [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) | Various expansions to Steamworks SDK support in GameMaker: Studio. | 🟢 Active | 90 |
 | [Parworks](https://github.com/nkrapivin/Parworks) | Additional functionality for the YYG Steamworks extension. | 🔴 Inactive | 3 |
 | [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) | A native extension for GOG.com SDK support. | 🔴 Inactive | 11 |
 | [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) | Twitch integration. | 🔴 Inactive | 69 |
