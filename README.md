@@ -93,7 +93,7 @@ This includes data structures and file formats that do not fit into a more speci
 | [BSONGML](https://github.com/LAGameStudio/BSONGML) | Save and load GML structured data in binary files (BSON). | 🔴 Inactive | 6 |
 | [Binder](https://github.com/Homunculus84/Binder) | A binary search library for efficient lookups on large datasets. | 🔴 Inactive | 6 |
 | [Airkiver](https://github.com/AlubJ/Airkiver) | Game file archive tool. | 🔴 Inactive | 1 |
-| [OKColor](https://github.com/KeeVeeGames/OKColor.gml) | An okay color manager for implementing OKLab/OKLCH colors. | 🟢 Active | 56 |
+| [OKColor](https://github.com/KeeVeeGames/OKColor.gml) | An okay color manager for implementing OKLab/OKLCH colors. | 🟢 Active | 58 |
 | [Exception](https://github.com/KeeVeeGames/Exception.gml) | A base class for custom exceptions. | 🟢 Active | 17 |
 | [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) | Complete list class with garbage collection and fast sorting. | 🟢 Active | 19 |
 | [Bit Buffers](https://yellowafterlife.itch.io/gamemaker-bit-buffers) | Read and write buffers with per-bit granularity. | Unknown | - |
@@ -144,7 +144,7 @@ Custom timers, timelines, and task scheduling.
 | [Timer](https://github.com/nommiin/Timers) | Interval-based timing methods modeled after JS's setTimeout and setInterval. | 🔴 Inactive | 3 |
 | [GMTimeLine](https://github.com/TimVN/GMTimeLine) | A pure code alternative to GameMaker timelines. | 🔴 Inactive | 7 |
 | [Agenda](https://github.com/benal20/Agenda.gml) | Schedule and delay the execution of callbacks. | 🔴 Inactive | 4 |
-| [GMMT](https://github.com/erkan612/GMMT) | Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control. | 🟢 Active | 11 |
+| [GMMT](https://github.com/erkan612/GMMT) | Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control. | 🟡 Semi-Active | 11 |
 | [STAGING](https://github.com/sdelaughter/STAGING) | Split initialization tasks over multiple frames, including support for asynchronous tasks. | 🟡 Semi-Active | 3 |
 
 ## Async
@@ -223,7 +223,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) | Pretty framerate display. | Unknown | - |
 | [Inspectron](https://github.com/shdwcat/Inspectron) | A fluent API for easily creating GameMaker debug views. | 🔴 Inactive | 16 |
 | 💸[GMPulse](https://topherlicious.itch.io/gmpulse) | A runtime inspector and control panel. | Unknown | - |
-| [Lookout](https://github.com/glebtsereteli/Lookout) | Helpful debug overlay views. | 🟢 Active | 22 |
+| [Lookout](https://github.com/glebtsereteli/Lookout) | Helpful debug overlay views. | 🟡 Semi-Active | 22 |
 
 ## Tests
 
@@ -233,7 +233,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Crispy](https://github.com/bfrymire/crispy) | Unit testing in GameMaker. | 🔴 Inactive | 41 |
 | [gms2-test](https://github.com/pmarincak/gms2-test) | Unit testing framework. | 🔴 Inactive | 29 |
 | [Ganary](https://github.com/bscotch/ganary) | Uses Olympus to perform regression tests. | 🟢 Active | 10 |
-| [gm-verrific](https://github.com/Alphish/gm-verrific) | The ultimate automated testing framework. | 🔴 Inactive | 5 |
+| [gm-verrific](https://github.com/Alphish/gm-verrific) | The ultimate automated testing framework. | 🟢 Active | 0 |
 
 ## Formatting and Linting
 
@@ -288,7 +288,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [MajorGUI](https://github.com/erkan612/MajorGUI_GML) | Surface-based GUI that allows 100% control over UI styling and functionality. | 🔴 Inactive | 10 |
 | [Bento](https://github.com/JujuAdams/Bento) | Cross-platform UI framework. | 🟢 Active | 57 |
 | [InteractiveBooks](https://marketplace.gamemaker.io/assets/4858/now-free-interactive-books) | Highly flexible, interactable books. | Unknown | - |
-| [SimpleBook](https://github.com/Gizmo199/SimpleBook) | Simple book rendering framework. | 🟡 Semi-Active | 11 |
+| [SimpleBook](https://github.com/Gizmo199/SimpleBook) | Simple book rendering framework. | 🔴 Inactive | 11 |
 
 ## Localization
 
@@ -360,8 +360,8 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [LDtkParser](https://github.com/evolutionleo/LDtkParser) | Advanced LDtk Importer. | 🔴 Inactive | 64 |
-| [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) | Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation. | 🟢 Active | 139 |
+| [LDtkParser](https://github.com/evolutionleo/LDtkParser) | Advanced LDtk Importer. | 🔴 Inactive | 65 |
+| [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) | Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation. | 🟡 Semi-Active | 139 |
 | [LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) | LDtk Importer. | Unknown | - |
 | [Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) | Collects room data and stores it into a JSON for later use. | 🔴 Inactive | 10 |
 | [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) | Combines user-defined chambers to create a dungeon. | 🔴 Inactive | 11 |
@@ -415,7 +415,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) | GML implementation of the jump flooding algorithm, using shaders. | Unknown | - |
 | [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) | Draws outlines around sprites using a shader. | 🔴 Inactive | 25 |
 | [Chameleon](https://github.com/Lojemiru/Chameleon) | Palette Swapper. | 🔴 Inactive | 16 |
-| [Xpanda](https://github.com/GameMakerDiscord/Xpanda) | Include code from external files in your shaders. | 🟡 Semi-Active | 17 |
+| [Xpanda](https://github.com/GameMakerDiscord/Xpanda) | Include code from external files in your shaders. | 🔴 Inactive | 17 |
 | [Shadertoy to GameMaker](https://github.com/jfkn1ght/Shadertoy2GM) | Convert shadertoy.com shaders to run in GameMaker (GLSL ES). | 🔴 Inactive | 12 |
 | 💸[Lens Distortion FOV](https://foxyofjungle.itch.io/lens-distortion-fov-shader) | Useful FOV depth effect. | Unknown | - |
 | 💸[Fast Blur Area](https://foxyofjungle.itch.io/foxey-blur-area) | Fast alpha blur shader effect in two lines of code. | Unknown | - |
@@ -431,7 +431,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
-| [BBMOD](https://github.com/blueburn-cz/BBMOD) | 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more. | 🟢 Active | 119 |
+| [BBMOD](https://github.com/blueburn-cz/BBMOD) | 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more. | 🟡 Semi-Active | 119 |
 | [ColMesh](https://forum.gamemaker.io/index.php?threads/colmesh-3d-collisions-made-easy.82765/) | 3D Collision Library from TheSnidr. | Unknown | - |
 | [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) | Import/Export tools to load vertex buffer data out of Blender and into GMS. | 🟢 Active | 43 |
 | [Penguin](https://dragonite.itch.io/penguin) | 3D model conversion tool. | Unknown | - |
@@ -448,7 +448,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | 💸[3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system) | 3D point lights using shaders. | Unknown | - |
 | [glTF parser](https://bitbucket.org/tijit/gltf-parser-for-gamemaker-lts/src/main/) | A model loader with support for animations. | Unknown | - |
 | [Collisions](https://dragonite.itch.io/collisions) | 3D collision system that works with native GML. | Unknown | - |
-| [Bonk](https://github.com/JujuAdams/Bonk) | Another cool collision library handling a majority of collision shape use-cases. | 🟢 Active | 15 |
+| [Bonk](https://github.com/JujuAdams/Bonk) | Another cool collision library handling a majority of collision shape use-cases. | 🟡 Semi-Active | 16 |
 | [DopeFish Respawned](https://lemontoast-games.itch.io/dopefish-respawned) | Extensive WAD manager to load DOOM maps in GameMaker. | Unknown | - |
 | [GMFlux](https://github.com/Fanatrick/GMFlux) | Heightfield fluid simulation solver. | 🔴 Inactive | 9 |
 
@@ -468,7 +468,7 @@ Things that work with project files or GameMaker itself rather than being someth
 | Name | Description | Status | Stars |
 |------|-------------|--------|-------|
 | [MultiClient](https://github.com/tabularelf/MultiClient) | Non-dll, multiple client launcher for network development. | 🔴 Inactive | 30 |
-| [Warp](https://github.com/evolutionleo/Warp) | A feature-rich framework for multiplayer games, written in GameMaker and Node.js. | 🟡 Semi-Active | 149 |
+| [Warp](https://github.com/evolutionleo/Warp) | A feature-rich framework for multiplayer games, written in GameMaker and Node.js. | 🟡 Semi-Active | 150 |
 | [EZ Networking](https://jasontomlee.itch.io/easy-gms-networking-platformer-build) | Host/client implementation with a chat feature. | Unknown | - |
 | [Patchwire-GM](https://github.com/gm-core/patchwire-gm) | The network library from gm-core if you want to use this implementation without the entire gm-core suite. | 🔴 Inactive | 35 |
 | [GMHandshake](https://gist.github.com/nkrapivin/c73f5a962466a4ecb63187a009a300d8) | A Gist demonstrating a network handshake. | ⚠️ Dead Link | - |
